@@ -8,10 +8,15 @@ The main ROMBI panel is made from a combination of standard British FloPlast squ
 
 The size of a single panel is 455mm x 455mm x 65mm. All sizes are multiples of 65mm, the size of the PVC square pipe. E.g. 65 x 7 = 455. This allows you to use the square pipe for floor and roof panels. 
 
-The design doesn’t include openable windows and doors yet. Below is a simple example of a door built using v-slot, although I want the doors to be more futuristic, as opposed to the typical style. For example, v-slot is often used to build 3D printers. As such, it is possible to build advanded sliding doors, etc.  
-<img src="Door 1.jpg" alt="Door example" align="right" width="400" pstyle="clear: right;"  />
+# Windows & Doors
 
-Below are the STL files for the main panel. 
+See the section below are the limitations of modular systems. The design doesn’t include openable windows and doors yet. Below is a simple example of a door built using v-slot, although I want the doors to be more futuristic, as opposed to the typical style. For example, v-slot is often used to build 3D printers. As such, it is possible to build advanded sliding doors, etc.  
+
+<img src="Door 1.jpg" alt="Door example" align="right" width="400"  />
+
+# Components & Files
+
+Below are the STL files for the main panel. Please note that I made them using Sketchup Online, and was thus only able to export as STL format. At some point I will try to provide other formats.  
 
 3-Way Cube Corner Connector (or Bracket) / Trihedral Corner
 3-Way Corner Cover
