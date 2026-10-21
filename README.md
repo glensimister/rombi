@@ -1,9 +1,8 @@
-# rombi
-ROMBI - Rapid  Open Modular Building Initiative
+# ROMBI - Rapid  Open Modular Building Initiative
 
 In its simplest form, the ROMBI system is a group of modular panels designed to make construction faster, affordable and accessible. There are good modular framing systems, such as V-slot and T-slot, but they are too heavy, too expensive, and relatively inaccessible to the average person. 
 
-<img src="images/Corner Panel 1.JFIF" alt="Corner Panel" />
+<img src="Corner Panel 1.jfif" alt="Corner Panel" />
 
 The main ROMBI panel is made from a combination of standard British FloPlast square drain pipe, 3D printed corner connectors, and off-the-shelf acrylic sheets. As such, it is very affordable. Unfortunately, different countries have different standards, and there isn’t much I can do about that. However, the repository can be cloned and adapted to cater for different countries and standards.  
 
