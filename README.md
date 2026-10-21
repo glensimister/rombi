@@ -1,14 +1,16 @@
 # ROMBI - Rapid  Open Modular Building Initiative
 
-In its simplest form, the ROMBI system is a group of modular panels designed to make construction faster, affordable and accessible. There are good modular framing systems, such as V-slot and T-slot, but they are too heavy, too expensive, and relatively inaccessible to the average person. 
+In its simplest form, ROMBI is a group of modular panels designed to make construction faster, affordable and accessible. There are good modular framing systems, such as V-slot and T-slot, but they are too heavy, too expensive, and relatively inaccessible to the average person. 
 
-<img src="Corner Panel 1.jfif" alt="Corner Panel" />
+<img src="Corner Panel 1.jfif" alt="Corner Panel" align="right" width="300" height="300"  />
 
 The main ROMBI panel is made from a combination of standard British FloPlast square drain pipe, 3D printed corner connectors, and off-the-shelf acrylic sheets. As such, it is very affordable. Unfortunately, different countries have different standards, and there isn’t much I can do about that. However, the repository can be cloned and adapted to cater for different countries and standards.  
 
 The size of a single panel is 455mm x 455mm x 65mm. All sizes are multiples of 65mm, the size of the PVC square pipe. E.g. 65 x 7 = 455. This allows you to use the square pipe for floor and roof panels. 
 
-The design doesn’t include openable windows and doors yet. I plan to use V-slot for the doors due to the advanced sliding/railing systems. I want the doors to be more futuristic/advanced, as opposed to the typical style.  
+The design doesn’t include openable windows and doors yet. I plan to use V-slot for the doors due to the advanced sliding/railing systems. I want the doors to be more futuristic/advanced, as opposed to the typical style. Below is a simple example of a door built using v-slot. 
+
+<img src="Door 1.jpeg" alt="Door example" align="right" width="300" height="300"  />
 
 Below are the STL files for the main panel. 
 
@@ -22,7 +24,7 @@ Hole Cover
 
 Colors: White, black and brown pipe with a wide range of colors for 3D printed components. 
 
-Materials
+# Materials
 
 PLASTIC (PVC + PERSPEX)
 
@@ -40,15 +42,19 @@ Fully Threaded Rod, M6 x 350mm Right Hand Thread Bar Studs with Nuts
 Aluminium 20x20mm corner cube / connector (OpenBuilds / V-Slot)
 M6 x 16mm (L) x 10mm (head size). A2 Stainless Steel Allen Bolts Socket Cap Screws Hex Head (DIN912) 
 
-Equipment 
+# Equipment 
 
 3D Printer - Ender 3 KE / PETG filament + drier
 Stanley clamping mitre box with saw
 
-Limitations of modular systems
+# Limitations of modular systems
 
 There are two main limitations of modular systems; security (preventing unauthorized access), and waterproofing. 
 
 Security: Naturally, the more secure a structure is, the less modular it will be. If it’s easy to build and maintain, it will be easy to steal and sabotage. However, that doesn’t mean it is impossible to apply security techniques to prevent unauthorized access, it just means it should be an after-thought. For example, the window panels are very easy to replace. However, to get around this, you could use one-way bolts, with the nut on the inside of the building. Even still, this shouldn’t be a part of the VMOD core. After all, you might live in a gated community, or decide to put the structure inside another, more secure structure. I (and hopefully others) will provide security add-ons, and you can choose which is the most suitable.  
 
 Waterproofing: The use of sealant would make the structure less modular. It might be tempting, but it should be a last resort. As above, add-ons will be available, but waterproofing will not be a part of the VMOD core. Perhaps you might want to consider putting the structure inside a large greenhouse or geodesic dome. Some do this in Scandinavia, and there are many benefits of doing so. Alternatively, you might want to put it under a gazebo, or inside a warehouse, shipping container or van.  
+
+Open-Plan: Open-plan spaces typically require a large support beam. However, it’s worth bearing in mind that the maximum length of square downpipe in the UK is 5.5 meters. As such you can build an open-plan space that size. The pipe won’t provide much structural strength, but it’s fine for a single-story structure with an outer shell. 
+
+Windows & Doors: Since we don’t know what we are building, it’s quite hard to design a universal system for windows and doors. I suggest using v-slot for this purpose. 
