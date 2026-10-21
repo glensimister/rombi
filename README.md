@@ -2,7 +2,7 @@
 
 In its simplest form, ROMBI is a group of modular panels designed to make construction faster, affordable and accessible. There are good modular framing systems, such as V-slot and T-slot, but they are too heavy, too expensive, and relatively inaccessible to the average person. 
 
-<img src="Corner Panel 1.jfif" alt="Corner Panel" width="400"  />
+<img src="Corner Panel 1.jfif" alt="Corner Panel" width="400" align="center" />
 
 The main ROMBI panel is made from a combination of standard British FloPlast square drain pipe, 3D printed corner connectors, and off-the-shelf acrylic sheets. As such, it is very affordable. Unfortunately, different countries have different standards, and there isn’t much I can do about that. However, the repository can be cloned and adapted to cater for different countries and standards.  
 
@@ -12,7 +12,7 @@ The size of a single panel is 455mm x 455mm x 65mm. All sizes are multiples of 6
 
 See the section below are the limitations of modular systems. The design doesn’t include openable windows and doors yet. Below is a simple example of a door built using v-slot, although I want the doors to be more futuristic, as opposed to the typical style. For example, v-slot is often used to build 3D printers. As such, it is possible to build advanded sliding doors, etc.  
 
-<img src="Door 1.jpg" alt="Door example" width="400"  />
+<img src="Door 1.jpg" alt="Door example" width="400" align="center" />
 
 # Components & Files
 
