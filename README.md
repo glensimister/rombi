@@ -8,9 +8,8 @@ The main ROMBI panel is made from a combination of standard British FloPlast squ
 
 The size of a single panel is 455mm x 455mm x 65mm. All sizes are multiples of 65mm, the size of the PVC square pipe. E.g. 65 x 7 = 455. This allows you to use the square pipe for floor and roof panels. 
 
-The design doesn’t include openable windows and doors yet. I plan to use V-slot for the doors due to the advanced sliding/railing systems. I want the doors to be more futuristic/advanced, as opposed to the typical style. Below is a simple example of a door built using v-slot. 
-
-<img src="Door 1.jpg" alt="Door example" align="right" width="400"   />
+The design doesn’t include openable windows and doors yet. Below is a simple example of a door built using v-slot, although I want the doors to be more futuristic, as opposed to the typical style. For example, v-slot is often used to build 3D printers. As such, it is possible to build advanded sliding doors, etc.  
+<img src="Door 1.jpg" alt="Door example" align="right" width="400" pstyle="clear: right;"  />
 
 Below are the STL files for the main panel. 
 
