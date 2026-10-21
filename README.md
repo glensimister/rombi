@@ -16,10 +16,10 @@ The size of a single panel is 455mm x 455mm x 65mm. All sizes are multiples of 6
 </table>
 <hr>
 
-# Windows & Doors
 <table>
   <tr>
     <td width="65%" valign="top">
+      <h2>Windows & Doors</h2>
 <p>
 See the section below about the limitations of modular systems. The design doesn’t include openable windows and doors yet. Below is a simple example of a door built using v-slot, although I want the doors to be more futuristic, as opposed to the typical style. For example, v-slot is often used to build 3D printers. As such, it is possible to build advanded sliding doors, etc.</p>
     </td>
