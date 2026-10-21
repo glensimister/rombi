@@ -5,9 +5,9 @@ In its simplest form, ROMBI is a group of modular panels designed to make constr
 <table>
   <tr>
     <td width="65%" valign="top">
-The main ROMBI panel is made from a combination of standard British FloPlast square drain pipe, 3D printed corner connectors, and off-the-shelf acrylic sheets. As such, it is very affordable. Unfortunately, different countries have different standards, and there isn’t much I can do about that. However, the repository can be cloned and adapted to cater for different countries and standards.  
-
-The size of a single panel is 455mm x 455mm x 65mm. All sizes are multiples of 65mm, the size of the PVC square pipe. E.g. 65 x 7 = 455. This allows you to use the square pipe for floor and roof panels. 
+<p>The main ROMBI panel is made from a combination of standard British FloPlast square drain pipe, 3D printed corner connectors, and off-the-shelf acrylic sheets. As such, it is very affordable. Unfortunately, different countries have different standards, and there isn’t much I can do about that. However, the repository can be cloned and adapted to cater for different countries and standards.</p>  
+<p>
+The size of a single panel is 455mm x 455mm x 65mm. All sizes are multiples of 65mm, the size of the PVC square pipe. E.g. 65 x 7 = 455. This allows you to use the square pipe for floor and roof panels. </p>
     </td>
     <td width="35%" valign="top">
       <img src="Corner Panel 1.jfif" alt="Corner Panel" />
@@ -16,12 +16,12 @@ The size of a single panel is 455mm x 455mm x 65mm. All sizes are multiples of 6
 </table>
 <hr>
 
+# Windows & Doors
 <table>
   <tr>
     <td width="65%" valign="top">
-# Windows & Doors
-
-See the section below are the limitations of modular systems. The design doesn’t include openable windows and doors yet. Below is a simple example of a door built using v-slot, although I want the doors to be more futuristic, as opposed to the typical style. For example, v-slot is often used to build 3D printers. As such, it is possible to build advanded sliding doors, etc.  
+<p>
+See the section below about the limitations of modular systems. The design doesn’t include openable windows and doors yet. Below is a simple example of a door built using v-slot, although I want the doors to be more futuristic, as opposed to the typical style. For example, v-slot is often used to build 3D printers. As such, it is possible to build advanded sliding doors, etc.</p>
     </td>
     <td width="35%" valign="top">
       <img src="Door 1.jpg" alt="Door example" />
