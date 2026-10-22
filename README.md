@@ -34,15 +34,13 @@ See the section below about the limitations of modular systems. The design doesn
 
 Below are the STL files for the main panel. Please note that I made them using Sketchup Online, and was thus only able to export as STL format. At some point I will try to provide other formats.  
 
-3-Way Cube Corner Connector (or Bracket) / Trihedral Corner
-3-Way Corner Cover
-3-Way Corner Spindle
-Panel Clip
-Panel Holder Corner
-Panel Holder Long
-Hole Cover 
-
-Colors: White, black and brown pipe with a wide range of colors for 3D printed components. 
+| **image** | 3-Way Cube Corner Connector (or Bracket) / Trihedral Corner | LINK TO FILE |
+| **image** | 3-Way Corner Cover | LINK TO FILE |
+| **image** | 3-Way Corner Spindle | LINK TO FILE |
+| **image** | Panel Clip | LINK TO FILE |
+| **image** | Panel Holder Corner | LINK TO FILE |
+| **image** | Panel Holder Long | LINK TO FILE |
+| **image** | Hole Cover  | LINK TO FILE |
 
 # Materials
 
