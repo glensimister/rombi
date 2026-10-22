@@ -23,7 +23,7 @@ The size of a single panel is 455mm x 455mm x 65mm. All sizes are multiples of 6
       <p>The design doesn’t include openable windows and doors yet. I plan to use V-slot (see the adjecent image) for the doors due to the advanced sliding/railing systems. I want the doors to be more futuristic/advanced, as opposed to the typical style.</p> 
     </td>
     <td width="35%" valign="top">
-      <img src="images/Door 1.jpg" alt="Door example" width="300" />
+      <img src="images/V-Slot-Door.jpg" alt="Door example" width="300" />
     </td>
   </tr>
 </table>
