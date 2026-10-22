@@ -16,31 +16,20 @@ The size of a single panel is 455mm x 455mm x 65mm. All sizes are multiples of 6
 </table>
 <hr>
 
-<table>
-  <tr>
-    <td width="65%" valign="top">
-      <h2>Windows & Doors</h2>
-<p>
-See the section below about the limitations of modular systems. The design doesn’t include openable windows and doors yet. Below is a simple example of a door built using v-slot, although I want the doors to be more futuristic, as opposed to the typical style. For example, v-slot is often used to build 3D printers. As such, it is possible to build advanded sliding doors, etc.</p>
-    </td>
-    <td width="35%" valign="top">
-      <img src="Door 1.jpg" alt="Door example" />
-    </td>
-  </tr>
-</table>
-<hr>
 
 # Components & Files
 
 Below are the STL files for the main panel. Please note that I made them using Sketchup Online, and was thus only able to export as STL format. At some point I will try to provide other formats.  
 
-| **image** | 3-Way Cube Corner Connector (or Bracket) / Trihedral Corner | LINK TO FILE |
-| **image** | 3-Way Corner Cover | LINK TO FILE |
-| **image** | 3-Way Corner Spindle | LINK TO FILE |
-| **image** | Panel Clip | LINK TO FILE |
-| **image** | Panel Holder Corner | LINK TO FILE |
-| **image** | Panel Holder Long | LINK TO FILE |
-| **image** | Hole Cover  | LINK TO FILE |
+| Image | Description | Link to file |
+|:---:|---|:---:|
+| <img src="images/3-way-cube-corner-connector.png" width="100"> | **3-Way Cube Corner Connector** (or Bracket / Trihedral Corner) | [STL](path/to/3-way-cube-corner-connector.stl) |
+| <img src="images/3-way-corner-cover.png" width="100"> | **3-Way Corner Cover** | [STL](path/to/3-way-corner-cover.stl) |
+| <img src="images/3-way-corner-spindle.png" width="100"> | **3-Way Corner Spindle** | [STL](path/to/3-way-corner-spindle.stl) |
+| <img src="images/panel-clip.png" width="100"> | **Panel Clip** | [STL](path/to/panel-clip.stl) |
+| <img src="images/panel-holder-corner.png" width="100"> | **Panel Holder Corner** | [STL](path/to/panel-holder-corner.stl) |
+| <img src="images/panel-holder-long.png" width="100"> | **Panel Holder Long** | [STL](path/to/panel-holder-long.stl) |
+| <img src="images/hole-cover.png" width="100"> | **Hole Cover** | [STL](path/to/hole-cover.stl) |
 
 # Materials
 
