@@ -36,13 +36,13 @@ Below are the STL files for the main panel. Please note that I made them using S
 
 | Image | Description | Link to file |
 |:---:|---|:---:|
-| <img src="images/3-way-cube-corner-connector.png" width="100"> | **3-Way Cube Corner Connector** (or Bracket / Trihedral Corner) | [STL](path/to/3-way-cube-corner-connector.stl) |
-| <img src="images/3-way-corner-cover.png" width="100"> | **3-Way Corner Cover** | [STL](path/to/3-way-corner-cover.stl) |
-| <img src="images/3-way-corner-spindle.png" width="100"> | **3-Way Corner Spindle** | [STL](path/to/3-way-corner-spindle.stl) |
-| <img src="images/panel-clip.png" width="100"> | **Panel Clip** | [STL](path/to/panel-clip.stl) |
-| <img src="images/panel-holder-corner.png" width="100"> | **Panel Holder Corner** | [STL](path/to/panel-holder-corner.stl) |
-| <img src="images/panel-holder-long.png" width="100"> | **Panel Holder Long** | [STL](path/to/panel-holder-long.stl) |
-| <img src="images/hole-cover.png" width="100"> | **Hole Cover** | [STL](path/to/hole-cover.stl) |
+| <img src="images/3-Way Connector.png" width="100"> | **3-Way Cube Corner Connector** (or Bracket / Trihedral Corner) | [STL](path/to/3-way-cube-corner-connector.stl) |
+| <img src="images/Corner Cover.png" width="100"> | **3-Way Corner Cover** | [STL](path/to/3-way-corner-cover.stl) |
+| <img src="images/3-Way Spindle.png" width="100"> | **3-Way Corner Spindle** | [STL](path/to/3-way-corner-spindle.stl) |
+| <img src="images/Panel Fastener.png" width="100"> | **Panel Clip** | [STL](path/to/panel-clip.stl) |
+| <img src="images/Panel Holder Corner.png" width="100"> | **Panel Holder Corner** | [STL](path/to/panel-holder-corner.stl) |
+| <img src="images/Panel Holder.png" width="100"> | **Panel Holder Long** | [STL](path/to/panel-holder-long.stl) |
+| <img src="images/Hole Plug.png" width="100"> | **Hole Cover** | [STL](path/to/hole-cover.stl) |
 | <img src="images/Rod Guide.png" width="100"> | **Hole Cover** | [STL](path/to/hole-cover.stl) |
 
 # Materials
