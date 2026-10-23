@@ -19,6 +19,19 @@ The size of a single panel is 455mm x 455mm x 65mm. All sizes are multiples of 6
  <table>
   <tr>
     <td width="65%" valign="top">
+<p>
+The size of a single panel is 455mm x 455mm x 65mm. All sizes are multiples of 65mm, the size of the PVC square pipe. E.g. 65 x 7 = 455. This allows you to use the square pipe for floor and roof panels. </p>
+    </td>
+    <td width="35%" valign="top">
+      <img src="images/Single-panel-white.jpg" alt="Single Panel White" width="300" />
+    </td>
+  </tr>
+</table>
+<hr>
+
+ <table>
+  <tr>
+    <td width="65%" valign="top">
      <h2>Windows & Doors</h2>
       <p>The design doesn’t include openable windows and doors yet. I plan to use V-slot (see the adjecent image) for the doors due to the advanced sliding/railing systems. I want the doors to be more futuristic/advanced, as opposed to the typical style.</p> 
     </td>
