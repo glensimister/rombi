@@ -1,9 +1,9 @@
 # ROMBI - Rapid  Open Modular Building Initiative
-
+      
+ <p>ROMBI consists of modular panels that can be made with practically no skills. There are some good modular framing systems out there, such as V-slot and T-slot, but they are typically meant for engineers. They are too heavy, too expensive, and relatively inaccessible to the average person. I came up with this system to make modular construction faster, affordable and accessible.</p>
  <table>
   <tr>
     <td width="65%" valign="top">
-      <p>In its simplest form, ROMBI consists of modular panels that can be made with practically no skills. There are some good modular framing systems out there, such as V-slot and T-slot, but they are typically meant for engineers. They are too heavy, too expensive, and relatively inaccessible to the average person. I came up with this system to make modular construction faster, affordable and accessible.</p>
 <p>The main ROMBI panel is made from a combination of standard British FloPlast square drain pipe, 3D printed corner connectors, and off-the-shelf acrylic sheets. As such, it is very affordable. Unfortunately, different countries have different standards, and there isn’t much I can do about that. However, the repository can be cloned and adapted to cater for different countries and standards.</p>  
     </td>
     <td width="35%" valign="top">
