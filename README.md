@@ -54,7 +54,7 @@ Below are the STL files for the main panel. Please note that I made them using S
 | <img src="images/Panel Holder Corner.png" width="100"> | **Panel Holder Corner** | [STL](path/to/panel-holder-corner.stl) |
 | <img src="images/Panel Holder.png" width="100"> | **Panel Holder Long** | [STL](path/to/panel-holder-long.stl) |
 | <img src="images/Hole Plug.png" width="100"> | **Hole Cover** | [STL](path/to/hole-cover.stl) |
-| <img src="images/Rod Guide.png" width="100"> | **Hole Cover** | [STL](path/to/hole-cover.stl) |
+| <img src="images/Rod Guide.png" width="100"> | **Steel Rod Guiding Tool** | [STL](path/to/hole-cover.stl) |
 
 # Misc & older
 
