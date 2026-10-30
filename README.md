@@ -1,11 +1,12 @@
 # ROMBI - Rapid  Open Modular Building Initiative
       
  <p>ROMBI consists of modular panels that can be made with practically no skills. There are some good modular framing systems out there, such as V-slot and T-slot, but they are typically meant for engineers. They are too heavy, too expensive, and relatively inaccessible to the average person. I came up with this system to make modular construction faster, affordable and accessible.</p>
- <p>ROMBI can be used for Room Partitions, Sensory Deprivation Enclosures, Cinema, Gaming & VR Booths, Children's Mini-Cinemas & Hideaways, Personal Focus & Video-Call Booths, Vocal, Voiceover & Podcast Booths, Mobile DJ & Karaoke Booths, Photo & Content-Creation Booths, Pet Shelters & Animal Enclosures, Livestock & Veterinary Recovery Enclosures, Kiosks & Exhibition Booths, 3D Printer & Equipment Enclosures, Generator Enclosures Server & Network Enclosures, Food Fermentation & Proofing Chambers, Hydroponic & Growing Chambers, Battery Energy Storage, Enclosures Emergency & Earthquake Shelters, and more. </p>
  <table>
   <tr>
     <td width="65%" valign="top">
 <p>The main ROMBI panel is made from a combination of standard British FloPlast square drain pipe, 3D printed corner connectors, and off-the-shelf acrylic sheets. As such, it is very affordable. Unfortunately, different countries have different standards, and there isn’t much I can do about that. However, the repository can be cloned and adapted to cater for different countries and standards.</p>  
+
+           <p>ROMBI can be used for Room Partitions, Sensory Deprivation Enclosures, Cinema, Gaming & VR Booths, Children's Mini-Cinemas & Hideaways, Personal Focus & Video-Call Booths, Vocal, Voiceover & Podcast Booths, Mobile DJ & Karaoke Booths, Photo & Content-Creation Booths, Pet Shelters & Animal Enclosures, Livestock & Veterinary Recovery Enclosures, Kiosks & Exhibition Booths, 3D Printer & Equipment Enclosures, Generator Enclosures Server & Network Enclosures, Food Fermentation & Proofing Chambers, Hydroponic & Growing Chambers, Battery Energy Storage, Enclosures Emergency & Earthquake Shelters, and more. </p>
     </td>
     <td width="35%" valign="top">
       <img src="images/Corner Panel 1.jfif" alt="Corner Panel" width="300" />
