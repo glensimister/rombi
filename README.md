@@ -218,3 +218,21 @@ This is an evolving list. Some ideas are relatively straightforward, while other
 These examples are not exhaustive. The modular nature of ROMBI means that components can potentially be adapted, combined or redesigned to suit applications that have not yet been explored.
 
 **Community contributions and new ideas are welcome.**
+
+### Holographic Video Conferencing Display
+
+A modular desk-mounted telepresence display that creates the illusion of a remote participant appearing as a floating image, rather than on a conventional computer screen.
+
+The concept uses two connected modular sections: one accommodates the user's head and webcam, while the other houses an optical display. A phone, tablet or small screen displays the remote participant against a black background. An angled transparent reflector, potentially using beam-splitting film, reflects the image towards the viewer, creating a Pepper's Ghost-style illusion.
+
+Rather than constructing an expensive, fully enclosed booth, the initial design could be a compact desk add-on. An elevated ROMBI cube could sit partly on the desk and extend beyond its edge, positioning the optical display at a comfortable viewing height.
+
+Potential features include:
+
+- **Floating video image:** The remote participant appears to occupy a physical space rather than a conventional flat screen.
+- **Modular optical components:** Interchangeable reflectors, beam-splitting materials and display devices allow experimentation with different optical arrangements.
+- **Independent webcam:** A separate camera captures the local participant and connects to the video-call device.
+- **Compact design:** A desk-mounted accessory avoids the cost and space requirements of a complete booth.
+- **Adaptable applications:** Potential uses include business meetings, remote consultations, education, reception desks and personal communication.
+
+**Additional considerations:** Achieving convincing image brightness, clarity, viewing angles and apparent eye contact will require experimentation. The optical display needs a dark background, and the video feed must be formatted appropriately for reflection. Both participants would ideally have compatible displays to create a two-way telepresence experience. The initial prototype should focus on proving the optical effect before developing the complete desk-mounted structure.
