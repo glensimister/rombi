@@ -196,6 +196,7 @@ This is an evolving list. Some ideas are relatively straightforward, while other
 
 | Potential Application | Description | Additional Considerations |
 |---|---|---|
+| **Office Partitions & Room Dividers** | Quickly create a space within a space. | - 
 | **Meditation & Sensory Booths** | Personal spaces for meditation, relaxation and concentration. Could incorporate controlled lighting, speakers, music and interactive visuals. Could also provide a physical setting for experiences such as ZenBlocks, a relaxing concentration game. | Lighting, ventilation, acoustic treatment and integrated electronics. |
 | **Hydrotherapy & Sensory Deprivation Enclosures** | Enclosures designed around baths or flotation tanks, potentially incorporating relaxing music, lighting and visual effects before and after sessions. | Specialist waterproofing, electrical safety, humidity control and hygiene requirements. |
 | **Cinema, Gaming & VR Booths** | Compact personal entertainment spaces with tablet or monitor mounts, headphones or surround sound, lighting and optional projection or immersive visual effects. Could also accommodate shared viewing experiences. | Display positioning, acoustics, ventilation and equipment mounting. VR applications would need sufficient clearance and safe movement space. |
