@@ -46,15 +46,15 @@ The size of a single panel is 455mm x 455mm x 65mm. All sizes are multiples of 6
 
 Below are the STL files for the main panel. Please note that I made them using Sketchup Online, and was thus only able to export as STL format. At some point I will try to provide other formats.  
 
-| Image | Description | Link to file |
-|:---:|---|:---:|
-| <img src="images/5-Way Connector.png" width="100"> | **5-Way Corner Connector** | [STL](path/to/5-way-connector.stl) |
-| <img src="images/3-Way Spindle.png" width="100"> | **3-Way Corner Spindle** | [STL](path/to/3-way-corner-spindle.stl) |
-| <img src="images/Panel Fastener.png" width="100"> | **Panel Clip** | [STL](path/to/panel-clip.stl) |
-| <img src="images/Panel Holder Corner.png" width="100"> | **Panel Holder Corner** | [STL](path/to/panel-holder-corner.stl) |
-| <img src="images/Panel Holder.png" width="100"> | **Panel Holder Long** | [STL](path/to/panel-holder-long.stl) |
-| <img src="images/Hole Plug.png" width="100"> | **Hole Cover** | [STL](path/to/hole-cover.stl) |
-| <img src="images/Rod Guide.png" width="100"> | **Steel Rod Guiding Tool** | [STL](path/to/hole-cover.stl) |
+| Image | Description | Link to file | Series
+|:---:|---|:---:|:---:|
+| <img src="images/5-Way Connector.png" width="100"> | **5-Way Corner Connector** | [STL](STL/Series-1/5-way-connector-s1.stl) | 1 | 
+| <img src="images/3-Way Spindle.png" width="100"> | **3-Way Corner Spindle** | [STL](STL/Series-1/spindle-s1.stl)  | 1 | 
+| <img src="images/Panel Fastener.png" width="100"> | **Panel Fastener** | [STL](STL/Series-1/panel-fastener-s1.stl)  | 1 | 
+| <img src="images/Panel Holder Corner.png" width="100"> | **Panel Holder Corner** | [STL](STL/Series-1/panel-holder-corner-s1.stl)  | 1 | 
+| <img src="images/Panel Holder.png" width="100"> | **Panel Holder Long S1** | [STL](STL/Series-1/panel-holder-long-s1.stl)  | 1 | 
+| <img src="images/Hole Plug.png" width="100"> | **Hole Cover** | [STL](STL/Series-1/hole-cover-s1.stl)  | 1 | 
+| <img src="images/Rod Guide.png" width="100"> | **Steel Rod Guiding Tool** | [STL](STL/Series-1/rod-guide-s1.stl)  | 1 | 
 
 # Misc & older
 
