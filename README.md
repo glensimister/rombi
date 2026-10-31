@@ -48,13 +48,13 @@ Below are the STL files for the main panel. Please note that I made them using S
 
 | Image | Description | Link to file | Series
 |:---:|---|:---:|:---:|
-| <img src="images/5-Way Connector.png" width="100"> | **5-Way Corner Connector** | [STL](STL/Series-1/5-way-connector-s1.stl) | 1 | 
-| <img src="images/3-Way Spindle.png" width="100"> | **3-Way Corner Spindle** | [STL](STL/Series-1/spindle-s1.stl)  | 1 | 
-| <img src="images/Panel Fastener.png" width="100"> | **Panel Fastener** | [STL](STL/Series-1/panel-fastener-s1.stl)  | 1 | 
-| <img src="images/Panel Holder Corner.png" width="100"> | **Panel Holder Corner** | [STL](STL/Series-1/panel-holder-corner-s1.stl)  | 1 | 
-| <img src="images/Panel Holder.png" width="100"> | **Panel Holder Long S1** | [STL](STL/Series-1/panel-holder-long-s1.stl)  | 1 | 
-| <img src="images/Hole Plug.png" width="100"> | **Hole Cover** | [STL](STL/Series-1/hole-cover-s1.stl)  | 1 | 
-| <img src="images/Rod Guide.png" width="100"> | **Steel Rod Guiding Tool** | [STL](STL/Series-1/rod-guide-s1.stl)  | 1 | 
+| <img src="images/5-Way Connector.png" width="100"> | **5-Way Corner Connector** | [STL](STL/Series_1/5-way-connector-s1.stl) | 1 | 
+| <img src="images/3-Way Spindle.png" width="100"> | **3-Way Corner Spindle** | [STL](STL/Series_1/spindle-s1.stl)  | 1 | 
+| <img src="images/Panel Fastener.png" width="100"> | **Panel Fastener** | [STL](STL/Series_1/panel-fastener-s1.stl)  | 1 | 
+| <img src="images/Panel Holder Corner.png" width="100"> | **Panel Holder Corner** | [STL](STL/Series_1/panel-holder-corner-s1.stl)  | 1 | 
+| <img src="images/Panel Holder.png" width="100"> | **Panel Holder Long S1** | [STL](STL/Series_1/panel-holder-long-s1.stl)  | 1 | 
+| <img src="images/Hole Plug.png" width="100"> | **Hole Cover** | [STL](STL/Series_1/hole-cover-s1.stl)  | 1 | 
+| <img src="images/Rod Guide.png" width="100"> | **Steel Rod Guiding Tool** | [STL](STL/Series_1/rod-guide-s1.stl)  | 1 | 
 
 # Misc & older
 
