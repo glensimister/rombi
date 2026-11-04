@@ -46,25 +46,14 @@ The size of a single panel is 455mm x 455mm x 65mm. All sizes are multiples of 6
 
 Below are the STL files for the main panel. Please note that I made them using Sketchup Online, and was thus only able to export as STL format. At some point I will try to provide other formats.  
 
-| Image | Description | Link to file | Series
+| Image | Description | Link to file | Version
 |:---:|---|:---:|:---:|
-| <img src="images/5-Way Connector.png" width="100"> | **5-Way Corner Connector** | [STL](STL/Series_1/5-way-connector-s1.stl) | 1 | 
-| <img src="images/3-Way Spindle.png" width="100"> | **3-Way Corner Spindle** | [STL](STL/Series_1/spindle-s1.stl)  | 1 | 
-| <img src="images/Panel Fastener.png" width="100"> | **Panel Fastener** | [STL](STL/Series_1/panel-fastener-s1.stl)  | 1 | 
-| <img src="images/Panel Holder Corner.png" width="100"> | **Panel Holder Corner** | [STL](STL/Series_1/panel-holder-corner-s1.stl)  | 1 | 
-| <img src="images/Panel Holder.png" width="100"> | **Panel Holder Long S1** | [STL](STL/Series_1/panel-holder-long-s1.stl)  | 1 | 
-| <img src="images/Hole Plug.png" width="100"> | **Hole Cover** | [STL](STL/Series_1/hole-cover-s1.stl)  | 1 | 
-| <img src="images/Rod Guide.png" width="100"> | **Steel Rod Guiding Tool** | [STL](STL/Series_1/rod-guide-s1.stl)  | 1 | 
-
-# Misc & older
-
-These are parts that are no longer used in the ROMBI core, but may still be of interest. 
-
-| Image | Description | Link to file |
-|:---:|---|:---:|
-| <img src="images/3-Way Connector.png" width="100"> | **3-Way Cube Corner Connector** (or Bracket / Trihedral Corner) | [STL](path/to/3-way-cube-corner-connector.stl) |
-| <img src="images/Corner Cover.png" width="100"> | **3-Way Corner Cover** | [STL](path/to/3-way-corner-cover.stl) |
-
+| <img src="images/V1/5-way-connector-with-slots.png" width="100"> | **5-Way Corner Connector** | [STL](STL/V1/5-way-connector-with-slots-V1.stl) | 1 | 
+| <img src="images/V1/keyhole-spindle.png" width="100"> | **Keyhole Spindle** | [STL](STL/V1/keyhole-spindle-V1.stl)  | 1 | 
+| <img src="images/Panel Fastener.png" width="100"> | **Panel Fastener** | [STL](STL/V1/panel-fastener-V1.stl)  | 1 | 
+| <img src="images/V1/panel-holder-corner-slotted.png" width="100"> | **Panel Holder Corner** | [STL](STL/V1/panel-holder-corner-slotted-V1.stl)  | 1 | 
+| <img src="images/V1/panel-holder-long.png" width="100"> | **Panel Holder Long S1** | [STL](STL/V1/panel-holder-long-V1.stl)  | 1 | 
+ 
 ## Equipment, Materials and Indicative Cost per L Panel
 
 ### Introduction
