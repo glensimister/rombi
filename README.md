@@ -1,6 +1,15 @@
 # ROMBI - Rapid  Open Modular Building Initiative
       
  <p>ROMBI consists of modular panels that can be made with practically no skills. There are some good modular framing systems out there, such as V-slot and T-slot, but they are typically meant for engineers. They are too heavy, too expensive, and relatively inaccessible to the average person. I came up with this system to make modular construction fast, affordable and accessible.</p>
+
+<p>A lot of time and money has gone into this project. Please support me by making a donation:</p>
+
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="hosted_button_id" value="NUNFJG6USY3QL" />
+<input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1" />
+</form>
+ 
  <table>
   <tr>
     <td width="65%" valign="top">
