@@ -48,7 +48,7 @@ Below are the STL files for the main panel. Please note that I made them using S
 
 | Image | Description | Link to file | Version
 |:---:|---|:---:|:---:|
-| <img src="images/V1/5-way-connector-with-slots.png" width="100"> | **5-Way Corner Connector** | [STL](STL/V1/5-way-connector-with-slots-V1.stl) | 1 | 
+| <img src="images/V1/5-way-connector-slotted.png" width="100"> | **5-Way Corner Connector** | [STL](STL/V1/5-way-connector-with-slots-V1.stl) | 1 | 
 | <img src="images/V1/keyhole-spindle.png" width="100"> | **Keyhole Spindle** | [STL](STL/V1/keyhole-spindle-V1.stl)  | 1 | 
 | <img src="images/Panel Fastener.png" width="100"> | **Panel Fastener** | [STL](STL/V1/panel-fastener-V1.stl)  | 1 | 
 | <img src="images/V1/panel-holder-corner-slotted.png" width="100"> | **Panel Holder Corner** | [STL](STL/V1/panel-holder-corner-slotted-V1.stl)  | 1 | 
