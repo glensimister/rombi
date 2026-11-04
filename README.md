@@ -2,10 +2,11 @@
       
  <p>ROMBI consists of modular panels that can be made with practically no skills. There are some good modular framing systems out there, such as V-slot and T-slot, but they are typically meant for engineers. They are too heavy, too expensive, and relatively inaccessible to the average person. I came up with this system to make modular construction fast, affordable and accessible.</p>
 
+<p>A lot of time and money has gone into this project. Please support me by making a donation:</p>
 <a href="https://www.paypal.com/donate/?hosted_button_id=NUNFJG6USY3QL" target="_blank">
   <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Donate with PayPal" />
 </a>
-
+<p></p>
  <table>
   <tr>
     <td width="65%" valign="top">
