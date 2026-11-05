@@ -12,7 +12,6 @@ Open-Plan: Open-plan spaces typically require large support beams. However, it�
 
 Windows & Doors: Since we don’t know what we are building, it’s quite hard to design a universal system for windows and doors. I suggest using v-slot for this purpose. I have already built a small test door using v-slot, and I will upload the specs at a later stage.  
 
-< hr/>
 
 | Principle | Description | How ROMBI addresses it |
 |---|---|---|
