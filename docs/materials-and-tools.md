@@ -1,6 +1,6 @@
-## Equipment, Materials and Indicative Cost per L Panel
+[← Back to ROMBI home](../README.md)
 
-### Introduction
+## Equipment, Materials and Indicative Cost per L Panel
 
 Modular construction systems can involve a higher initial material cost than conventional building methods because they require standardised components, specialised connectors and carefully designed interfaces. However, these upfront costs can potentially be offset by faster assembly, reduced labour, easier maintenance, and the ability to dismantle, reuse and reconfigure components.
 
@@ -63,6 +63,8 @@ These components are not required for every application and are excluded from th
 | **Foam pipe insulation** | Approximately 1.8 m of foam insulation, with an internal diameter of 43 mm and external diameter of 61 mm. Intended for placement inside the square PVC frame to improve insulation. | Approximately £12 |
 
 ### 5. Preliminary Cost Estimate
+
+### IMPORTANT: The calculations below are based on the highest estimates. Naturally, buying in bulk (or ordering from China) will bring the costs down. This may not be an option at first, but could be an option at a later stage. For example, the v-slot corner cubes are much cheaper when buying from China. Additionally, the threaded rod is quite expensive when buying pre-cut sections. Cutting the rod yourself will bring the cost down a lot, but cutting metal is beyond the scope of this project.  
 
 Based on the current design, the following is a provisional guide rather than a definitive price.
 
