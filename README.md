@@ -31,6 +31,7 @@
 
  <p>ROMBI can be used for Room Partitions, Sensory Deprivation Enclosures, Cinema, Gaming & VR Booths, Children's Mini-Cinemas & Hideaways, Personal Focus & Video-Call Booths, Vocal, Voiceover & Podcast Booths, Mobile DJ & Karaoke Booths, Photo & Content-Creation Booths, Pet Shelters & Animal Enclosures, Livestock & Veterinary Recovery Enclosures, Kiosks & Exhibition Booths, 3D Printer & Equipment Enclosures, Generator Enclosures Server & Network Enclosures, Food Fermentation & Proofing Chambers, Hydroponic & Growing Chambers, Battery Energy Storage, Enclosures Emergency & Earthquake Shelters, and more. </p>
     </td>
+    <p>ROMBI is currently version 1, marked as V1. It will stay on V1 until a core change has been made (affecting the majority of components). At which point a new folder will be created (V2), with V1 kept as legacy. Ideally, there won't be many (if any) changes to the core.</p>
     <td width="35%" valign="top">
       <img src="images/Corner Panel 1.jfif" alt="Corner Panel" width="300" />
     </td>
