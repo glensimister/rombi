@@ -2,7 +2,17 @@
 
 ## Principles of Modular Design, and how ROMBI Addresses Them
 
-A truly modular building system should aim to meet the following principles. ROMBI is designed around these principles, with the intention of making construction more accessible, adaptable and sustainable.
+Before discussing the principles of modular design, and how ROMBI Addresses them, let's start by reviewing the limitations of modular building systems.
+
+Security: Naturally, the more secure a structure is, the less modular it will be. If it’s easy to build and maintain, it will be easy to steal and sabotage. However, that doesn’t mean it is impossible to apply security techniques to prevent unauthorized access, it just means it should be an after-thought. For example, the window panels are very easy to replace. However, to get around this, you could use one-way bolts, with the nut on the inside of the structure. Even still, this shouldn’t be a part of the ROMBI core. After all, you might live in a gated community, or decide to put the structure inside another, more secure structure. I (and hopefully others) will provide security add-ons, and you can choose which is the most suitable.  
+
+Waterproofing: The use of sealant would make the structure less modular. It might be tempting, but it should be used as a last resort. As above, add-ons will be available, but waterproofing will not be a part of the ROMBI core. Perhaps you might want to consider putting the structure inside a large greenhouse or geodesic dome. Some do this in Scandinavia, and there are many benefits of doing so. Alternatively, you might want to put it under a gazebo, or inside a warehouse, shipping container or van.  
+
+Open-Plan: Open-plan spaces typically require large support beams. However, it’s worth bearing in mind that the maximum length of square downpipe in the UK is 5.5 meters. As such you can build an open-plan space that size. The pipe won’t provide much structural strength, but it’s fine for a single-story structure with an outer shell. 
+
+Windows & Doors: Since we don’t know what we are building, it’s quite hard to design a universal system for windows and doors. I suggest using v-slot for this purpose. I have already built a small test door using v-slot, and I will upload the specs at a later stage.  
+
+< hr/>
 
 | Principle | Description | How ROMBI addresses it |
 |---|---|---|
