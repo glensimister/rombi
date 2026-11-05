@@ -58,17 +58,16 @@ These components are not required for every application and are excluded from th
 
 Based on the current design, the following is a provisional guide rather than a definitive price.
 
-| Cost Category | Approximate Cost |
+| Cost Category | Approximate Cost (rounded) |
 |---|---:|
-| PVC downpipe | £5.50 |
+| PVC downpipe | £5 |
 | Acrylic sheets | £12.00 |
 | PETG filament | £12.00 |
-| M6 × 20 mm button-head screws | £12.00 |
-| M6 × 10 mm button-head screws | £5.12 |
-| M6 coupling nuts | £5.60 |
-| Four-piece threaded-rod kit | £17.00 |
-| Six aluminium V-slot corner cubes | £11.25 |
-| **Subtotal of priced core items** | **£80.47** |
+| M6 × 16 mm button-head screws | £20 |
+| M6 coupling nuts | £6 |
+| Four-piece threaded-rod kit | £12.00 |
+| Six aluminium V-slot corner cubes | £11 |
+| **Subtotal of priced core items** | **£80** |
 
 This subtotal includes the estimated cost of the specified quantities of priced components, including the PETG filament, but excludes the additional hardware whose quantities or costs have not been fully established. It also excludes optional extras, equipment, labour, outsourced 3D printing, delivery charges and any waste or spare materials.
 
