@@ -15,7 +15,6 @@
 - [Materials and Tools](docs/materials-and-tools.md)
 - [Design Principles](docs/design-principles.md)
 - [Use Cases](docs/use-cases.md)
-- [Troubleshooting](docs/troubleshooting.md)
 
 
 <p></p>
