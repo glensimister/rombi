@@ -11,7 +11,7 @@ Waterproofing: The use of sealant would make the structure less modular. It migh
 Open-Plan: Open-plan spaces typically require large support beams. However, it’s worth bearing in mind that the maximum length of square downpipe in the UK is 5.5 meters. As such you can build an open-plan space that size. The pipe won’t provide much structural strength, but it’s fine for a single-story structure with an outer shell. 
 
 Windows & Doors: Since we don’t know what we are building, it’s quite hard to design a universal system for windows and doors. I suggest using v-slot for this purpose. I have already built a small test door using v-slot, and I will upload the specs at a later stage.  
-
+<p></p>
 
 | Principle | Description | How ROMBI addresses it |
 |---|---|---|
