@@ -20,7 +20,7 @@
 
 <p></p>
 
-## NOTE: Below are photos of the prototype. The core design has since changed, although still roughly the same. I will upload more photos as I build more things.  
+## NOTE: Below are photos of the prototype. The core design has since changed, although still roughly the same. There maybe also be some inconsistencies, such as mismatching corner connectors, which will be addressed in due course. I will upload more photos as the project progresses.   
 
 <p></p>
  <table>
