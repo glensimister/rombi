@@ -4,7 +4,7 @@
 
 Modular construction systems can involve a higher initial material cost than conventional building methods because they require standardised components, specialised connectors and carefully designed interfaces. However, these upfront costs can potentially be offset by faster assembly, reduced labour, easier maintenance, and the ability to dismantle, reuse and reconfigure components.
 
-As ROMBI develops, costs should decrease through design improvements, bulk purchasing, alternative suppliers and more efficient manufacturing methods. For further information, see **[Principles of Modular Design and How ROMBI Addresses Them](#principles-of-modular-design)**.
+As ROMBI develops, costs should decrease through design improvements, bulk purchasing, alternative suppliers and more efficient manufacturing methods. For further information, see **[Principles of Modular Design and How ROMBI Addresses Them](../docs/design-principles.md)**.
 
 The following figures are **rough estimates based on current prototype materials and example retail prices**, not a fixed bill of materials or a final quotation. Actual costs will vary according to supplier, location, availability, quantity purchased, manufacturing method and future design revisions.
 
