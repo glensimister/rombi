@@ -19,6 +19,10 @@
 
 
 <p></p>
+
+## NOTE: Below are photos of the prototype. The core design has since changed, although still roughly the same. I will upload more photos as I build more things.  
+
+<p></p>
  <table>
   <tr>
     <td width="65%" valign="top">
