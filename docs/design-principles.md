@@ -1,7 +1,7 @@
 [← Back to ROMBI home](../README.md)
 
 ## Principles of Modular Design, and how ROMBI Addresses Them
-
+<p>
 Before discussing the principles of modular design, and how ROMBI Addresses them, let's start by reviewing the limitations of modular building systems.
 
 Security: Naturally, the more secure a structure is, the less modular it will be. If it’s easy to build and maintain, it will be easy to steal and sabotage. However, that doesn’t mean it is impossible to apply security techniques to prevent unauthorized access, it just means it should be an after-thought. For example, the window panels are very easy to replace. However, to get around this, you could use one-way bolts, with the nut on the inside of the structure. Even still, this shouldn’t be a part of the ROMBI core. After all, you might live in a gated community, or decide to put the structure inside another, more secure structure. I (and hopefully others) will provide security add-ons, and you can choose which is the most suitable.  
@@ -11,6 +11,7 @@ Waterproofing: The use of sealant would make the structure less modular. It migh
 Open-Plan: Open-plan spaces typically require large support beams. However, it’s worth bearing in mind that the maximum length of square downpipe in the UK is 5.5 meters. As such you can build an open-plan space that size. The pipe won’t provide much structural strength, but it’s fine for a single-story structure with an outer shell. 
 
 Windows & Doors: Since we don’t know what we are building, it’s quite hard to design a universal system for windows and doors. I suggest using v-slot for this purpose. I have already built a small test door using v-slot, and I will upload the specs at a later stage.  
+</p>
 <p></p>
 
 | Principle | Description | How ROMBI addresses it |
