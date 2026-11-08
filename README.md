@@ -34,23 +34,19 @@
         <tr>
               <td><img src="images/Single-panel-white.jpg" /></td>
               <td><img src="images/V-Slot-Door.jpg" /></td>
-              <td></td>
-              <td></td>
+              <td><img src="images/V1/5-way-connector-with=slots.png" /></td>
+              <td><img src="images/V1/keyhole-spindle-V1.png" /</td>
         </tr>
   </table>
 </center>
 <p></p>
 
 <p>ROMBI is made from a combination of standard British FloPlast square drain pipe, 3D printed corner connectors, and off-the-shelf perspex sheets. As such, it is very affordable. The square pipe is currently available in black, white and brown, while the 3D printed connectors can be any colour. </p>
-      
 <p>Different countries have different standards. The repository can be cloned and adapted accordingly. However, I don't plan to cater for different standards quite yet.</p>  
 
  <p>ROMBI can be used for Room Partitions, Sensory Deprivation Enclosures, Cinema, Gaming & VR Booths, Children's Mini-Cinemas & Hideaways, Personal Focus & Video-Call Booths, Vocal, Voiceover & Podcast Booths, Mobile DJ & Karaoke Booths, Photo & Content-Creation Booths, Pet Shelters & Animal Enclosures, Livestock & Veterinary Recovery Enclosures, Kiosks & Exhibition Booths, 3D Printer & Equipment Enclosures, Generator Enclosures Server & Network Enclosures, Food Fermentation & Proofing Chambers, Hydroponic & Growing Chambers, Battery Energy Storage, Enclosures Emergency & Earthquake Shelters, and more. </p>
 
-    <p>ROMBI is currently version 1, marked as V1. It will stay on V1 until a core change has been made (affecting the majority of components). At which point a new folder will be created (V2), with V1 kept as legacy. Ideally, there won't be many (if any) changes to the core.</p>
+<p>ROMBI is currently version 1, marked as V1. It will stay on V1 until a core change has been made (affecting the majority of components). At which point a new folder will be created (V2), with V1 kept as legacy. Ideally, there won't be many (if any) changes to the core.</p>
+<p>The size of a single panel is 455mm x 455mm x 65mm. All sizes are multiples of 65mm, the size of the PVC square pipe. E.g. 65 x 7 = 455. This allows you to use the square pipe for floor and roof panels.</p>
 
-<p>
-The size of a single panel is 455mm x 455mm x 65mm. All sizes are multiples of 65mm, the size of the PVC square pipe. E.g. 65 x 7 = 455. This allows you to use the square pipe for floor and roof panels. </p>
-
-     <h2>Windows & Doors</h2>
-      <p>The design doesn’t include openable windows and doors yet. I plan to use V-slot (see the adjecent image) for the doors due to the advanced sliding/railing systems. I want the doors to be more futuristic/advanced, as opposed to the typical style.</p> 
+<h2>Windows & Doors</h2><p>The design doesn’t include openable windows and doors yet. I plan to use V-slot (see the adjecent image) for the doors due to the advanced sliding/railing systems. I want the doors to be more futuristic/advanced, as opposed to the typical style.</p> 
