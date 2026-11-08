@@ -26,24 +26,11 @@
   <table>
     <tr>
       <td><img src="images/photos/20261106_133025.jpg" /></td>
-      <td><img src="images/photos/20261106_133025.jpg" /></td>
-      <td><img src="images/photos/20261106_133025.jpg" /></td>
-      <td><img src="images/photos/20261106_133025.jpg" /></td>
-      <tr>
-        <td>193</td>
-        <td>194</td>
-        <td>195</td>
-        <td>196</td>
-      </tr>
-      <td>213</td>
-      <td>214</td>
-      <td>215</td>
-      <td>216</td>
+      <td><img src="images/photos/20261106_133137.jpg" /></td>
+      <td><img src="images/photos/20261106_134456.jpg" /></td>
+      <td><img src="images/photos/20261108_153126.jpg" /></td>
     </tr>
-    <td>223</td>
-    <td>224</td>
-    <td>225</td>
-    <td>226</td>
+  </table>
 </center>
 <p></p>
  <table>
