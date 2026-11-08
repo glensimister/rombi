@@ -25,10 +25,10 @@
 <center>
   <table>
     <tr>
-      <td><img src="images/photos/2026_133025.jpg" /></td>
-      <td><img src="images/photos/2026_133025.jpg" /></td>
-      <td><img src="images/photos/2026_133025.jpg" /></td>
-      <td><img src="images/photos/2026_133025.jpg" /></td>
+      <td><img src="../images/photos/20261106_133025.jpg" /></td>
+      <td><img src="../images/photos/20261106_133025.jpg" /></td>
+      <td><img src="../images/photos/20261106_133025.jpg" /></td>
+      <td><img src="../images/photos/20261106_133025.jpg" /></td>
       <tr>
         <td>193</td>
         <td>194</td>
