@@ -22,6 +22,30 @@
 ## NOTE: Below are photos of the prototype. The core design has since changed, although still roughly the same. There maybe also be some inconsistencies, such as mismatching corner connectors, which will be addressed in due course. I will upload more photos as the project progresses.   
 
 <p></p>
+<center>
+  <table>
+    <tr>
+      <td><img src="images/photos/2026_133025.jpg" /></td>
+      <td><img src="images/photos/2026_133025.jpg" /></td>
+      <td><img src="images/photos/2026_133025.jpg" /></td>
+      <td><img src="images/photos/2026_133025.jpg" /></td>
+      <tr>
+        <td>193</td>
+        <td>194</td>
+        <td>195</td>
+        <td>196</td>
+      </tr>
+      <td>213</td>
+      <td>214</td>
+      <td>215</td>
+      <td>216</td>
+    </tr>
+    <td>223</td>
+    <td>224</td>
+    <td>225</td>
+    <td>226</td>
+</center>
+<p></p>
  <table>
   <tr>
     <td width="65%" valign="top">
