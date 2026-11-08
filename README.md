@@ -31,6 +31,12 @@
       <td><img src="images/photos/20261106_134456.jpg" /></td>
       <td><img src="images/photos/20261108_153126.jpg" /></td>
     </tr>
+        <tr>
+              <td><img src=" <img src="images/Single-panel-white.jpg" />" /></td>
+              <td><img src="/images/V-Slot-Door.jpg" /></td>
+              <td></td>
+              <td></td>
+        </tr>
   </table>
 </center>
 <p></p>
@@ -58,7 +64,7 @@
 The size of a single panel is 455mm x 455mm x 65mm. All sizes are multiples of 65mm, the size of the PVC square pipe. E.g. 65 x 7 = 455. This allows you to use the square pipe for floor and roof panels. </p>
     </td>
     <td width="35%" valign="top">
-      <img src="images/Single-panel-white.jpg" alt="Single Panel White" width="300" />
+      
     </td>
   </tr>
 </table>
