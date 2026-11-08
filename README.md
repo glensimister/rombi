@@ -35,7 +35,7 @@
               <td><img src="images/Single-panel-white.jpg" /></td>
               <td><img src="images/V-Slot-Door.jpg" /></td>
               <td><img src="images/V1/5-way-connector-with=slots.png" /></td>
-              <td><img src="images/V1/keyhole-spindle-V1.png" /</td>
+              <td><img src="images/V1/keyhole-spindle-V1.png" /></td>
         </tr>
   </table>
 </center>
