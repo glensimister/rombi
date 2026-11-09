@@ -29,7 +29,7 @@
               <td><img src="images/V1/3D-models-partially-constructed.png" /></td>
               <td><img src="images/V1/3D-models-collection.png" /></td>
               <td><img src="images/V1/L-panels-stacked.png" /></td>
-              <td><img src="images/photos/20261108_153126.jpg" /></td>
+              <td><img src="images/photos/20261106_133503.jpg" /></td>
         </tr>
     <tr>
       <td><img src="images/photos/20261106_133025.jpg" /></td>
@@ -40,7 +40,7 @@
         <tr>
               <td><img src="images/Single-panel-white.jpg" /></td>
               <td><img src="images/V-Slot-Door.jpg" /></td>
-              <td><img src="images/V1/5-way-connector-with-slots.png" /></td>
+              <td><img src="images/V1/5-way-connector-with-spanner-slot-V1.png" /></td>
               <td><img src="images/V1/keyhole-spindle-V1.png" /></td>
         </tr>
   </table>
