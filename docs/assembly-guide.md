@@ -17,10 +17,9 @@
 
 ## STEP 2: Create the corners
 
-Print the following components and put it together: 
-
 | Image | Description
 |---|:---|
+<img src="../images/V1/corner-full-V1.png" /> | This is the corner with all mods attached. Print the following components and put it together.| 
 <img src="../images/V1/5-way-connector-with-spanner-slot-V1.png" /> | STL/V1/5-way-connector-with-spanner-slot-V1.stl - Fasten the corner connector to the strut using allen bolts. It is recommended to use 1 in each corner.  This could be the last step, if you think it would be easier. | 
 <img src="../images/V1/spanner-slot-cover-V1.png" /> | STL/V1/spanner-slot-cover-V1.stl - The purpose of the spanner slot is to allow enough room for a spanner to turn a vertical long hex nut. However, the long hex nut turner can be pushed over the hex nut to enable you to do it with your finger, or whatever. Both the spanner slot cover and the connector widget (below) are fastened via the same hole (top-middle).  | 
 <img src="../images/V1/long-hex-nut-turner-V1.png" /> | 1 x STL/V1/long-hex-nut-turner-V1.stl  - This is to lock the panels vertically (see below). | 
