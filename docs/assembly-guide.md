@@ -6,6 +6,7 @@
 
 ## Step 1: Building the struts
 
+| Image | Description
 |---|---:|
 <img src="" /> | Cut the square drain pipe into 245mm sections.| 
 <img src="" /> | Print 2 x Hex Nut Holder objects.| 
