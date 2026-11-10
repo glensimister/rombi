@@ -4,7 +4,7 @@
 
 <p></p>
 
-## Step 1: Building the struts
+## Step 1: Build a strut
 
 | Image | Description
 |---|:---|
@@ -15,7 +15,7 @@
 <img src="../images/assembly/hex-nut-holder-inside-pipe.png" /> | Slide the Hex Nut Holders plus rod inside the pipe, and connect the keyslot spindles either side until the thread is visible on both ends. You should have roughly 12.5mm thread on each end.  | 
 <img src="../images/assembly/finished-strut.png" /> | Add a long hex nut (18mm) to each end. The strut is now finished. It's time to print the corner connectors. | 
 
-## STEP 2: Create the corners
+## STEP 2: Build a corner
 
 | Image | Description
 |---|:---|
@@ -27,4 +27,7 @@
 <img src="../images/V1/connector-widget-V1.png" /> | 2 x STL/V1/connector-widget-V1.stl  - This is used for horizontal fastening on both sides of the connector, assuming it is a 2-way connector, and not a 3-way. | 
 <img src="../images/V1/corner-guide-V1.png" /> | 2 x STL/V1/corner-guide-V1.stl  - The two corner guides should be fastened on opposite corners. The reason is because the ROMBI panels are stackable, and when they are stacked, the corner connectors mirror each other. So if you position the guides on the front left and back right, and then flip it upside-down, they will be front right, and back left.  | 
 <img src="../images/V1/hex-nut-spacer-V1.png" /> | 2/3 x hex-nut-spacer-V1.stl   -  How many you print depends on whether it is a 3 way or 2 way corner. Once you have printed your components, slot the strut into the hole and push the Hex Nut spacer on the hex nut. I will probably be tight fit. The purpose of this spacer is to ensure that the aluminium corner cube (see below) is center aligned. Since all parts of the metal frame must be connected, you will need to purchase 20x20mm aluminium corner cubes, which are typically used for v-slot. When buying individually, they are not cheap, but the more you buy, and the longer you are willing to wait, the cheaper they are. NOTE: You won’t need to add the cube until all struts are connected. | 
+
+## STEP 3: Attach a panel (To do...)
+
 
