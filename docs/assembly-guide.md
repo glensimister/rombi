@@ -28,3 +28,6 @@ Coming soon...
 
 Coming soon...
 
+| Step | Description |
+|---|---:|
+| Cut Pipe | Cut the square drain pipe into 245mm sections. |
