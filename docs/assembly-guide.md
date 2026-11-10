@@ -2,7 +2,7 @@
 
 ## This section is currently in progress. I hope to include clear photos, PowerPoint presentations, and perhaps even videos. 
 
-<p>3D prints should use PETG, anot PLA, to ensure that they can be used outdoors.</p>
+<p>You can view and download the 3D models from the [STL folder](../STL/). Prints should use PETG, and not PLA, to ensure that they are durable and can be used outdoors. If you have any questions, feel free to post an issue above. Alternatively, the ROMBI Facebook page is also a good place to ask questions.</p>
 
 ## Step 1: Build a strut
 
