@@ -13,5 +13,5 @@
 <img src="../images/assembly/hex-nut-holder-on-both-ends.png" /> | Slide the Hex Nut Holders over the rod, leaving roughly 16.5mm thread on each end. You can adjust the nuts accordingly. NOTE: I will try to make this process easier by adding guides to ensure there is 16.5mm thread on each end and hold the Hex Nut Holder in place. But for now, it’s fine. | 
 <img src="../images/V1/keyhole-spindle-V1.png" /> | Print 2 x PETG keyslot Spindle objects. For consistency, they should be the same color as the square pipe (black, white or brown). That said, it’s ultimately your choice.| 
 <img src="../images/assembly/hex-nut-holder-inside-pipe.png" /> | Slide the Hex Nut Holders plus rod inside the pipe, and connect the keyslot spindles either side until the thread is visible on both ends. You should have roughly 12.5mm thread on each end.  | 
-<img src="../images/assembly/finished-strut.png" /> | Add a long hex nut (18mm) to each end.| 
+<img src="../images/assembly/finished-strut.png" /> | Add a long hex nut (18mm) to each end. The strut is now finished. It's time to print the corner connectors. | 
 
