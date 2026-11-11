@@ -27,7 +27,7 @@
 <img src="../images/V1/hex-nut-spacer-V1.png" /> | 2/3 x hex-nut-spacer-V1.stl   -  How many you print depends on whether it is a 3 way or 2 way corner. Once you have printed your components, slot the strut into the hole and push the Hex Nut spacer on the hex nut. I will probably be tight fit. The purpose of this spacer is to ensure that the aluminium corner cube (see below) is center aligned. Since all parts of the metal frame must be connected, you will need to purchase 20x20mm aluminium corner cubes, which are typically used for v-slot. When buying individually, they are not cheap, but the more you buy, and the longer you are willing to wait, the cheaper they are. NOTE: You won’t need to add the cube until all struts are connected. | 
 <img src="../images/V1/5-way-connector-with-spanner-slot-V1.png" /> |  Attach the [5-Way Conector](../STL/V1/5-way-connector-with-spanner-slot-V1.stl) corner connector to the strut using M6 × 16 mm button-head bolts/screws with flange. It is recommended to use 1 in each corner. NOTE: Feel free to use whatever bolts you have available. | 
 
-## STEP 3: Attach a panel (To do...)
+## STEP 3: Attach a panel
 
 | Image | Description
 |---|:---|
