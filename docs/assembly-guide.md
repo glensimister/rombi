@@ -37,5 +37,5 @@
 <img src="../images/assembly/attach-long-panel-bracket-to-long-panel-bracket.png" /> | Attach another long panel bracket to one already there. Use 16mm M6 bolts either to hold them together. | 
 <img src="../images/assembly/attach-panel.png" /> | Repeat all of the processes above until all struts, corners, and brackets are attached. Then, attach the perspex panel. It should rest in place, however, if it is stuborn, you will need to loosen the structure by loosening the long hex nuts on either side of the structs. Once the panel is sitting nicely, tighten it up, and add the panel clips to hold them in place. | 
 
-
+## STEP 4: Stack a panel (To Do...)
 
