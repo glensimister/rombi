@@ -43,6 +43,6 @@ This section is in progress. However, to summarize, you will need to repeat the 
 
 | Image | Description
 |---|:---|
-<img src="../images/assembly/hex-turner.png" /> | Spin the hex turner to fasten the panels vertically. | 
-<img src="../images/assembly/vertical-connector.png" /> | A different view of the vertical fastener. Notice how the guides slot into place to ensure the grub screws align. | 
+<img src="../images/assembly/hex-turner.png" /> | Spin the hex turner to fasten the panels vertically. Notice how the guides slot into place to ensure the grub screws align.  | 
+<img src="../images/assembly/vertical-connector.png" /> | A different view of the vertical fastener. | 
 
