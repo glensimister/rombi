@@ -4,7 +4,7 @@
 
 <p>You can browse and download the 3D models from the STL folder. Prints should use PETG, and not PLA, to ensure that they are durable and weatherproof. If you have any questions, feel free to post an issue above. Alternatively, the ROMBI Facebook page is also a good place to ask questions.</p>  
 
-## Step 1: Build a strut
+## STEP 1: Build a strut
 
 | Image | Description
 |---|:---|
