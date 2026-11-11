@@ -39,7 +39,10 @@
 
 ## STEP 4: Stack a panel
 
-This section is in progress. However, to summarize, you will need to repeat the steps above to complete an L-panel, or corner panel. Then stack them on top of each other. They should slot into place, as the corner connectors have guides. There's one important thing you will need to do in order to get them to fasten together vertically. The 5-way corner modules will contain aluminium corner cubes, which are there to hold the metal frame in place. The cubes are fastened to the frame via the long hex nut, on the end of the strut. They are fastened using 10mm M6 allen bolts. You will need to replace the downward facing bolt with a grub screw, that is approximately 35mm long. Then place a washer and hex nut no the screw to hold it in place. Then thread the long hex nut on the grub screw and place the hex nut turner object on the hex nut. This will enable you to spin it in order to attach the panels vertically. I will provide detailed images in due course.   
+This section is in progress. However, to summarize, you will need to repeat the steps above to complete an L-panel, or corner panel. Then stack them on top of each other. They should slot into place, as the corner connectors have guides. There's one important thing you will need to do in order to get them to fasten together vertically. The 5-way corner modules will contain aluminium corner cubes, which are there to hold the metal frame in place. The cubes are fastened to the frame via the long hex nut, on the end of the strut. They are fastened using 10mm M6 allen bolts. You will need to replace the downward facing bolt with a grub screw, that is approximately 35mm long. Then place a washer and hex nut no the screw to hold it in place. Then thread the long hex nut on the grub screw and place the hex nut turner object on the hex nut. This will enable you to spin it in order to attach the panels vertically. I will provide more detailed images in due course.  
 
-
+| Image | Description
+|---|:---|
+<img src="../images/assembly/hex-turner.png" /> | Spin the hex turner to fasten the panels vertically. | 
+<img src="../images/assembly/vertical-connector.png" /> | A different view of the vertical fastener. Notice how the guides slot into place to ensure the grub screws align. | 
 
