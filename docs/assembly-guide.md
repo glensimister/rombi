@@ -29,4 +29,13 @@
 
 ## STEP 3: Attach a panel (To do...)
 
+| Image | Description
+|---|:---|
+<img src="../images/assembly/keyslot-with-nut-V1.png" /> | Place a standard M6 hex inside the keyslot. If you prefer, you can also put a standard UK hex bolt in there instead. | 
+<img src="../images/assembly/attach-corner-panel-bracket-to-keyslot-V1.png" /> | Attach the corner panel bracket to the keyslot. The keyslot is 8mm depth, and the bracket is 2mm. As such, a 10mm M6 bolt with a washer is probably the best option.  | 
+<img src="../images/assembly/attach-long-panel-bracket.png" /> | Attach the long panel bracket to the corner panel bracket. Push an M6 coupling into the slot, and use 16mm M6 bolts either side to hold it together. NOTE: You can use one-way bolts if you want a structure which cannot be dismantled from the outside. You will still be able to loosen them from the inside. | 
+<img src="../images/assembly/attach-long-panel-bracket-to-long-panel-bracket.png" /> | Attach another long panel bracket to one already there. Use 16mm M6 bolts either to hold them together. | 
+<img src="../images/assembly/attach-panel.png" /> | Repeat all of the processes above until all struts, corners, and brackets are attached. Then, attach the perspex panel. It should rest in place, however, if it is stuborn, you will need to loosen the structure by loosening the long hex nuts on either side of the structs. Once the panel is sitting nicely, tighten it up, and add the panel clips to hold them in place. | 
+
+
 
