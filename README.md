@@ -12,7 +12,6 @@
 ## Documentation
 
 - [Assembly Guide](docs/assembly-guide.md)
-- [Components](docs/components.md)
 - [Materials and Tools](docs/materials-and-tools.md)
 - [Design Principles](docs/design-principles.md)
 - [Use Cases](docs/use-cases.md)
