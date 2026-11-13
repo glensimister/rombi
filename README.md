@@ -27,7 +27,7 @@
       <tr>
               <td><img src="images/V1/3D-models-partially-constructed.png" /></td>
               <td><img src="images/V1/3D-models-collection.png" /></td>
-              <td><img src="images/van-conversion.png" /></td>
+              <td><img src="images/van-conversion-interia.png" /></td>
               <td><img src="images/photos/20261106_133503.jpg" /></td>
         </tr>
     <tr>
