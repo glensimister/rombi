@@ -4,9 +4,7 @@
 
 **ROMBI — Rapid Open Modular Building Initiative** is an open-source modular construction project designed to make building simple, accessible and adaptable.
 
-The project is available on [GitHub](https://github.com/glensimister/rombi), where the design files and documentation can be accessed, downloaded and adapted.
-
-ROMBI aims to enable people to construct standardised, lightweight, enclosed structures without requiring conventional building experience, specialist tools or complicated construction methods.
+ROMBI aims to enable people to construct standardised, lightweight, enclosed structures without requiring conventional building experience, specialist tools or complicated construction methods. <img src="images/van-conversion-interia.png" width="300" align="right" />
 
 I believe this approach could be particularly interesting for **Liberland**, where the development of buildings and infrastructure on floating platforms presents some unusual challenges.
 
@@ -195,4 +193,4 @@ I would welcome:
 
 I believe floating communities could be an especially interesting environment in which to explore that idea.
 
-If you are interested in the project, please visit the [ROMBI GitHub repository](https://github.com/glensimister/rombi) or get in touch to discuss it.
+If you are interested in the project, please contact me here or at: glen_simister (at) yahoo.co.uk
