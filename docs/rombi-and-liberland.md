@@ -25,11 +25,13 @@ Structures must be supported by pontoons, rafts or other floating platforms. Wei
 
 Conventional construction methods can also be difficult to apply. For example:
 
-- Heavy building materials increase the demands on floating platforms.
-- Timber can be relatively heavy and requires protection against moisture and rot.
-- Conventional glass glazing adds weight and can be difficult to handle.
-- Cutting, drilling and assembling materials on a floating platform can be awkward.
-- Traditional construction often assumes access to a stable building site, workshops and specialist tradespeople.
+<ul style="text-align: center; list-style-position: inside;">
+  <li>Heavy building materials increase the demands on floating platforms.</li>
+  <li>Timber can be relatively heavy and requires protection against moisture and rot.</li>
+  <li>Conventional glass glazing adds weight and can be difficult to handle.</li>
+  <li>Cutting, drilling and assembling materials on a floating platform can be awkward.</li>
+  <li>Traditional construction often assumes access to a stable building site, workshops and specialist tradespeople.</li>
+</ul>
 
 One possible solution is to manufacture or prepare standardised building modules on land, transport them to the floating site and assemble them there.
 
