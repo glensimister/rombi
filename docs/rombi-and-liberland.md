@@ -4,9 +4,9 @@
 
 **ROMBI — Rapid Open Modular Building Initiative** is an open-source modular construction project designed to make building simple, accessible and adaptable.
 
-ROMBI aims to enable people to construct standardised, lightweight, enclosed structures without requiring conventional building experience, specialist tools or complicated construction methods. <img src="../images/van-conversion-interia.png" width="300" align="right" />
+<table><tr><td>ROMBI aims to enable people to construct standardised, lightweight, enclosed structures without requiring conventional building experience, specialist tools or complicated construction methods. 
 
-I believe this approach could be particularly interesting for **Liberland**, where the development of buildings and infrastructure on floating platforms presents some unusual challenges.
+I believe this approach could be particularly interesting for **Liberland**, where the development of buildings and infrastructure on floating platforms presents some unusual challenges.</td><td><img src="../images/van-conversion-interia.png" width="300" align="right" /></td></tr></table>
 
 ## Why floating construction needs a different approach
 
