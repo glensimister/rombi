@@ -31,7 +31,7 @@ One possible solution is to manufacture or prepare standardised building modules
 This is the principle behind ROMBI.
 
 <p align="center"><i>A real photo of a light-weight, stack-able, cube, for illustration purposes. Please note that this is a photo of the prototype, and now looks a little different, but not much.</i></p>
-<p align="center"><img src="../images/20261106_133025.jpg" width="300" height="300" alt="ROMBI modular room concept"></p>
+<p align="center"><img src="../images/photos/20261106_133025.jpg" width="300"  alt="ROMBI modular room concept"></p>
 
 ---
 
@@ -79,7 +79,7 @@ The threaded rods connect the internal framework, providing reinforcement within
 Panels can also be locked together vertically by threading and fastening the connections into position.
 
 <p align="center"><i>Close-up of the threaded rods and aluminium corner cubes.</i></p>
-<p align="center"><img src="../images/photos/20261106_133503.jpg" width="300" height="300" alt="ROMBI internal metal reinforcement"></p>
+<p align="center"><img src="../images/photos/20261106_133503.jpg" width="300"  alt="ROMBI internal metal reinforcement"></p>
 
 ### 3. Secure but maintainable connections
 
