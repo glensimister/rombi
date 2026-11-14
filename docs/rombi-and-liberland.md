@@ -2,13 +2,17 @@
 
 ## A modular construction system for floating communities
 
-## ROMBI — Rapid Open Modular Building Initiative ## 
+**ROMBI — Rapid Open Modular Building Initiative** is an open-source modular construction project designed to make building simple, accessible and adaptable.
 
-<table><tr><td>
-  <p>...is an open-source modular construction project designed to make building simple, accessible and adaptable.</p>
-  <p>ROMBI aims to enable people to construct standardised, lightweight, enclosed structures without requiring conventional building experience, specialist tools or complicated construction methods. </p>
-  <p>I believe this approach could be particularly interesting for Liberland, where the development of buildings and infrastructure on floating platforms presents some unusual challenges.</p>
-</td><td><img src="../images/van-conversion-interia.png" width="300" align="right" /></td></tr></table>
+ROMBI aims to enable people to construct standardised, lightweight, enclosed structures without requiring conventional building experience, specialist tools or complicated construction methods.
+
+I believe this approach could be particularly interesting for **Liberland**, where the development of buildings and infrastructure on floating platforms presents some unusual challenges.
+
+<img src="../images/van-conversion-interia.jpg" width="300" height="300" alt="ROMBI modular room concept">
+
+*Suggested image: An illustrative ROMBI room or enclosed modular structure.*
+
+---
 
 ## Why floating construction needs a different approach
 
@@ -28,6 +32,12 @@ One possible solution is to manufacture or prepare standardised building modules
 
 This is the principle behind ROMBI.
 
+<img src="images/floating-construction.jpg" width="300" height="300" alt="Floating platform or construction concept">
+
+*Suggested image: A floating platform, pontoon or raft illustrating the construction environment.*
+
+---
+
 ## What is ROMBI?
 
 ROMBI uses a repeatable modular panel system.
@@ -38,7 +48,7 @@ The intention is to make construction more like assembling a modular kit than bu
 
 The system uses:
 
-- **3D-printed components:** The connector designs are available through the GitHub project.
+- **3D-printed components:** The connector designs are available as part of the ROMBI project.
 - **Standard British square PVC drainpipe:** Used to form the main panel framework.
 - **Standard-size Perspex/acrylic panels:** Used for the glazing and available from online suppliers.
 - **Threaded metal rods:** Used as part of the internal structural framework.
@@ -47,6 +57,12 @@ The system uses:
 The use of readily available materials is deliberate. People should be able to source components locally where possible, rather than depending on a single manufacturer or supplier.
 
 The current design uses standard British materials, but adapting the system to equivalent materials available in other countries is an important part of the open-source concept.
+
+<img src="images/rombi-components.jpg" width="300" height="300" alt="ROMBI construction components">
+
+*Suggested image: The individual printed connectors, PVC pipe, acrylic panels and metal reinforcement components.*
+
+---
 
 ## How the system works
 
@@ -58,6 +74,10 @@ They can be assembled into different arrangements, allowing structures to be cre
 
 This could be useful for floating communities where buildings may need to expand, change purpose or be relocated.
 
+<img src="images/rombi-modular-panels.jpg" width="300" height="300" alt="ROMBI modular panels">
+
+*Suggested image: Several panels connected or stacked to demonstrate the modular principle.*
+
 ### 2. Internal metal reinforcement
 
 Inside the main framework is a metal reinforcement system using threaded rods and V-slot aluminium corner cubes.
@@ -66,6 +86,10 @@ The threaded rods connect the internal framework, providing reinforcement within
 
 Panels can also be locked together vertically by threading and fastening the connections into position.
 
+<img src="images/rombi-internal-frame.jpg" width="300" height="300" alt="ROMBI internal metal reinforcement">
+
+*Suggested image: Close-up of the threaded rods and aluminium corner cubes.*
+
 ### 3. Secure but maintainable connections
 
 ROMBI can use one-way security bolts to make external connections more resistant to unauthorised removal.
@@ -73,6 +97,10 @@ ROMBI can use one-way security bolts to make external connections more resistant
 Importantly, the connections can still be loosened from the inside, allowing authorised access for maintenance and disassembly.
 
 This is intended to provide a balance between security and maintainability.
+
+<img src="images/rombi-security-fittings.jpg" width="300" height="300" alt="ROMBI security fasteners">
+
+*Suggested image: Close-up of the security bolts and connection points.*
 
 ### 4. Double-glazed, interchangeable panels
 
@@ -90,6 +118,10 @@ This creates opportunities for different panel types, including:
 
 The ability to change the panels means that a structure does not have to remain permanently configured for one particular purpose.
 
+<img src="images/rombi-double-glazing.jpg" width="300" height="300" alt="ROMBI double-glazed panel">
+
+*Suggested image: A close-up or cross-section of a double-glazed panel and its removable clips.*
+
 ### 5. The ROMBI Keyslot fitting
 
 One of the features of the system is a connection I call the **Keyslot fitting**.
@@ -101,6 +133,12 @@ The purpose is to make it quick and straightforward to attach the panel framewor
 This is important because a modular building system should not only be easy to assemble; it should also be easy to maintain, repair and dismantle.
 
 The Keyslot fitting is intended to reduce the number of complicated assembly operations and make the system more accessible to people without specialist building experience.
+
+<img src="images/rombi-keyslot.jpg" width="300" height="300" alt="ROMBI Keyslot fitting">
+
+*Suggested image: A close-up diagram or photograph showing how the Keyslot fitting attaches and releases.*
+
+---
 
 ## Potential applications in Liberland
 
@@ -121,6 +159,10 @@ Such units could potentially provide:
 
 Small units could be constructed on land and transported to their floating locations for assembly.
 
+<img src="images/rombi-sleeping-pod.jpg" width="300" height="300" alt="ROMBI compact sleeping pod concept">
+
+*Suggested image: A compact sleeping pod concept, showing the approximate scale and interior space.*
+
 ### Modular rooms and buildings
 
 Larger structures could be created by connecting multiple modules.
@@ -136,11 +178,21 @@ Potential applications include:
 
 The same underlying components could be used across different applications, reducing the need to develop entirely different construction systems for each building.
 
+<img src="images/rombi-modular-building.jpg" width="300" height="300" alt="ROMBI modular building concept">
+
+*Suggested image: A larger structure made from multiple connected ROMBI modules.*
+
 ### Adaptable floating infrastructure
 
 A modular system could also be useful for facilities that need to change over time.
 
 Rather than treating every building as a permanent, fixed structure, modules could potentially be added, removed, relocated or repurposed as the settlement develops.
+
+<img src="images/rombi-floating-settlement.jpg" width="300" height="300" alt="ROMBI floating settlement concept">
+
+*Suggested image: An illustrative floating settlement using modular buildings.*
+
+---
 
 ## An open-source approach
 
@@ -148,15 +200,17 @@ ROMBI is being developed as an open project.
 
 The intention is not simply to sell a proprietary building system, but to make the design accessible so that other people can experiment with it, improve it and adapt it to their own requirements.
 
-The GitHub repository provides a starting point for this:
-
-[**Visit the ROMBI GitHub repository**](https://github.com/glensimister/rombi)
-
 The project includes 3D-printable components and supporting documentation. As development continues, further assembly instructions, photographs and design improvements will be added.
 
 People with access to a 3D printer could produce the connectors themselves, while those without one could use a commercial 3D-printing service.
 
 The system is intended to encourage local production and adaptation rather than dependence on a central supplier.
+
+<img src="images/rombi-open-source.jpg" width="300" height="300" alt="ROMBI 3D printed components">
+
+*Suggested image: The printed components, CAD designs or someone assembling a ROMBI panel.*
+
+---
 
 ## What needs to be investigated?
 
@@ -177,6 +231,12 @@ These are not minor details, and I would not claim that ROMBI is already a certi
 
 However, I believe the underlying modular approach provides an interesting starting point for investigation.
 
+<img src="images/rombi-testing.jpg" width="300" height="300" alt="ROMBI prototype testing">
+
+*Suggested image: A prototype, material test or diagram showing areas requiring further development.*
+
+---
+
 ## An invitation to Liberland
 
 I would be very interested in discussing ROMBI with people involved in Liberland's development, particularly those interested in construction, infrastructure, engineering, architecture and floating settlements.
@@ -195,4 +255,6 @@ I would welcome:
 
 I believe floating communities could be an especially interesting environment in which to explore that idea.
 
-If you are interested in the project, please contact me here or at: glen_simister (at) yahoo.co.uk
+<img src="images/rombi-invitation.jpg" width="300" height="300" alt="ROMBI prototype or project image">
+
+*Suggested image: Your best photograph of the completed ROMBI prototype.*
