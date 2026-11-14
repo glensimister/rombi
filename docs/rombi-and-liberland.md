@@ -7,7 +7,8 @@
 ROMBI aims to enable people to construct standardised, lightweight, enclosed structures without requiring conventional building experience, specialist tools or complicated construction methods.
 
 I believe this approach could be particularly interesting for **Liberland**, where the development of buildings and infrastructure on floating platforms presents some unusual challenges.
-<p align="center">*An illustrative ROMBI room or enclosed modular structure.* <img src="../images/van-conversion-interia.png" width="300" height="300" alt="ROMBI modular room concept"></p>
+<p align="center">*An illustrative ROMBI room or enclosed modular structure.* </p>
+<p align="center"><img src="../images/van-conversion-interia.png" width="300" height="300" alt="ROMBI modular room concept"></p>
 
 ---
 
