@@ -146,6 +146,9 @@ Such units could potentially provide:
 
 Small units could be constructed on land and transported to their floating locations for assembly.
 
+<p align="center"><i>A serene floating eco village. Please note, though the image is AI generated, it's remarkable close to what a ROMBI pod will actually look like. Of course, it can be whatever size you want. You will also notice there are three colors. This is because the square pipe that ROMBI uses is available in black, white and brown.</i></p>
+<p align="center"><img src="../images/Serene Floating Eco Village.png" width="500" height="500" alt="Serene Floating Eco Village"></p>
+
 
 ### Modular rooms and buildings
 
