@@ -53,11 +53,11 @@ The intention is to make construction more like assembling a modular kit than bu
 The system uses:
 
 <p align="center">
-  • <b>3D-printed components:</b>  The connector designs are available as part of the ROMBI project..<br>
-  • Standard British square PVC drainpipe: Used to form the main panel framework.<br>
-  • Standard-size Perspex/acrylic panels: Used for the glazing and available from online suppliers.<br>
-  • Threaded metal rods: Used as part of the internal structural framework.<br>
-  • V-slot aluminium corner cubes: Used to connect and reinforce the internal frame.<br>
+  •<b>3D-printed components:</b>  The connector designs are available as part of the ROMBI project..<br>
+  •<b>Standard British square PVC drainpipe:</b> Used to form the main panel framework.<br>
+  •<b>Standard-size Perspex/acrylic panels:</b> Used for the glazing and available from online suppliers.<br>
+  •<b>Threaded metal rods:</b> Used as part of the internal structural framework.<br>
+  •<b>V-slot aluminium corner cubes:</b> Used to connect and reinforce the internal frame.<br>
 </p>
 
 The use of readily available materials is deliberate. People should be able to source components locally where possible, rather than depending on a single manufacturer or supplier.
