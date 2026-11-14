@@ -8,7 +8,7 @@
   <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Donate with PayPal" />
 </a>
 
-<p>Please also check out: - [Why ROMBI Could Be a Good Fit for Liberland](docs/Why ROMBI Could Be a Good Fit for Liberland.md)</p>
+
 
 ## Documentation
 
@@ -18,6 +18,9 @@
 - [Use Cases](docs/use-cases.md)
 
 
+Please also check out: - [Why ROMBI Could Be a Good Fit for Liberland](docs/rombi-and-liberland.md)  
+
+<p></p> 
 <p></p>
 
 ## NOTE: Below are photos of the prototype. The core design has since changed, although still roughly the same. There maybe also be some inconsistencies, such as mismatching corner connectors, which will be addressed in due course. I will upload more photos as the project progresses.   
