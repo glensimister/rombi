@@ -107,11 +107,15 @@ The glazing is attached using removable clips, making it possible to remove or r
 
 This creates opportunities for different panel types, including:
 
-- Clear panels for natural light and visibility.
-- Opaque panels for privacy.
-- Insulated panels for improved thermal performance.
-- Sound-reducing panel configurations.
-- Replaceable panels for repair or future upgrades.
+<p align="center">
+- Clear panels for natural light and visibility.<br>
+- Opaque panels for privacy.<br>
+- Insulated panels for improved thermal performance.<br>
+- Sound-reducing panel configurations.<br>
+- Replaceable panels for repair or future upgrades.<br>
+</p>
+
+
 
 The ability to change the panels means that a structure does not have to remain permanently configured for one particular purpose.
 
@@ -148,10 +152,14 @@ A sleeping pod could be approximately the size of a one-person tent, with an enc
 
 Such units could potentially provide:
 
-- Compact individual sleeping spaces.
-- Temporary accommodation.
-- Private spaces within larger floating developments.
-- Modular accommodation that can be combined or rearranged.
+<p align="center">
+- Compact individual sleeping spaces.<br>
+- Temporary accommodation.<br>
+- Private spaces within larger floating developments.<br>
+- Modular accommodation that can be combined or rearranged.<br>
+</p>
+
+
 
 Small units could be constructed on land and transported to their floating locations for assembly.
 
@@ -165,12 +173,14 @@ Larger structures could be created by connecting multiple modules.
 
 Potential applications include:
 
-- Living spaces.
-- Workshops.
-- Storage facilities.
-- Offices and workspaces.
-- Communal facilities.
-- Small commercial or service units.
+<p align="center">
+- Living spaces.<br>
+- Workshops.<br>
+- Storage facilities.<br>
+- Offices and workspaces.<br>
+- Communal facilities.<br>
+- Small commercial or service units.<br>
+</p>
 
 The same underlying components could be used across different applications, reducing the need to develop entirely different construction systems for each building.
 
@@ -203,14 +213,18 @@ ROMBI is still under development. Although the modular concept and prototype com
 
 Some of the important areas to investigate include:
 
-- Buoyancy and the additional weight of completed structures.
-- Stability and wind loading on floating platforms.
-- Structural performance of the connections.
-- Long-term exposure to water, moisture and sunlight.
-- Fire performance of the materials.
-- Thermal insulation and condensation management.
-- Weatherproofing and ventilation.
-- Safe access, emergency escape and building regulations.
+<p align="center">
+- Buoyancy and the additional weight of completed structures.<br>
+- Stability and wind loading on floating platforms.<br>
+- Structural performance of the connections.<br>
+- Long-term exposure to water, moisture and sunlight.<br>
+- Fire performance of the materials.<br>
+- Thermal insulation and condensation management.<br>
+- Weatherproofing and ventilation.<br>
+- Safe access, emergency escape and building regulations.<br>
+</p>
+
+
 
 These are not minor details, and I would not claim that ROMBI is already a certified or proven marine construction system.
 
@@ -226,14 +240,14 @@ The project is at an early stage, which means there is an opportunity to influen
 
 I would welcome:
 
-- Technical feedback and criticism.
-- Suggestions for improvements.
-- Collaboration with engineers, designers and builders.
-- Opportunities to test the system in practical applications.
-- Ideas for adapting the materials and components to local availability.
+<p align="center">
+- Technical feedback and criticism.<br>
+- Suggestions for improvements.<br>
+- Collaboration with engineers, designers and builders.<br>
+- Opportunities to test the system in practical applications.<br>
+- Ideas for adapting the materials and components to local availability.<br>
+</p>
 
-**My aim is to develop a construction system that makes building more accessible, modular and adaptable.**
-
-I believe floating communities could be an especially interesting environment in which to explore that idea.
+Please contact me at either glen_simister (at) yahoo.co.uk, via Github, or the ROMBI Facebook page. Thanks for reading! 
 
 </div>
