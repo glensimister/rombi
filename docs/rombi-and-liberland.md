@@ -8,7 +8,7 @@ ROMBI aims to enable people to construct standardised, lightweight, enclosed str
 
 I believe this approach could be particularly interesting for **Liberland**, where the development of buildings and infrastructure on floating platforms presents some unusual challenges.
 
-<img src="../images/van-conversion-interia.jpg" width="300" height="300" alt="ROMBI modular room concept">
+<img src="../images/van-conversion-interia.png" width="300" height="300" alt="ROMBI modular room concept">
 
 *Suggested image: An illustrative ROMBI room or enclosed modular structure.*
 
