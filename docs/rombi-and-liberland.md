@@ -76,7 +76,7 @@ They can be assembled into different arrangements, allowing structures to be cre
 
 This could be useful for floating communities where buildings may need to expand, change purpose or be relocated.
 
-<p align="center"><i>When stacked, the fasten into place by spinning a small wheel as illustrated below.</i></p>
+<p align="center"><i>When stacked, they fasten into place by spinning a small wheel as illustrated below.</i></p>
 <p align="center"><img src="../images/assembly/vertical-connector.png" width="300" height="300" alt="vertical connector"></p>
 
 ### 2. Internal metal reinforcement
