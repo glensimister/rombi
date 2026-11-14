@@ -7,7 +7,8 @@
 <a href="https://www.paypal.com/donate/?hosted_button_id=NUNFJG6USY3QL" target="_blank">
   <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Donate with PayPal" />
 </a>
-<p></p>
+
+<p>Please also check out: - [Why ROMBI Could Be a Good Fit for Liberland](docs/Why ROMBI Could Be a Good Fit for Liberland.md)</p>
 
 ## Documentation
 
