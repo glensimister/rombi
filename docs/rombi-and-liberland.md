@@ -1,3 +1,5 @@
+<div align="center">
+
 # Why ROMBI Could Be a Good Fit for Liberland
 
 ## A modular construction system for floating communities
@@ -230,3 +232,4 @@ I would welcome:
 
 I believe floating communities could be an especially interesting environment in which to explore that idea.
 
+</div>
