@@ -4,13 +4,14 @@
 
 **ROMBI — Rapid Open Modular Building Initiative** is an open-source modular construction project designed to make building simple, accessible and adaptable.
 
-<p align="center"><img src="../images/Serene Floating Eco Village.png" width="200" height="200" alt="Serene Floating Eco Village"></p>
+<p><img src="../images/Serene Floating Eco Village.png" width="200" height="200" align="right"  alt="Serene Floating Eco Village"></p>
 
 ROMBI aims to enable people to construct standardised, lightweight, enclosed structures without requiring conventional building experience, specialist tools or complicated construction methods.
 
 I believe this approach could be particularly interesting for **Liberland**, where the development of buildings and infrastructure on floating platforms presents some unusual challenges.
 
-<p><img src="../images/liberland-pod.png" width="500" height="500" aligh="right" alt="ROMBI modular room concept"></p>
+<p align="center"><i>How the ROMBI panels look when stacked. Note that the floor and roof as stacked pipe. They do not offer waterproofing on their own, hence why they require an external gazebo. That said, there are many options available to make the pod waterproof.</i></p>
+<p align="center"><img src="../images/liberland-pod.png" width="500" height="500" alt="ROMBI modular room concept"></p>
 
 ---
 
