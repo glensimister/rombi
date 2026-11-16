@@ -54,8 +54,8 @@ Many traditional building methods have an inner frame, and an outer shell. The i
 
 | Image | Description
 |---|:---|
-<img src="../images/assembly/hex-turner.png" /> | Spin the hex turner to fasten the panels vertically. Notice how the guides slot into place to ensure the grub screws align.  | 
-<img src="../images/assembly/vertical-connector.png" /> | A different view of the vertical fastener. | 
+<img src="../images/photos/20261115_180237.jpg" /> | ....  | 
+<img src="../images/photos/20261115_180207.jpg" /> | .... | 
 
 
 
