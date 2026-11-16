@@ -54,8 +54,8 @@ Many traditional building methods have an inner frame, and an outer shell. The i
 
 | Image | Description
 |---|:---|
-<img src="../images/photos/20261115_180237.jpg" width="300" /> |  A panel fastener with support for 20mm x 2mm PVC trim. It is intended to act as a support for the square drain pipe, which are stacked across the top. Additional supports will be required depending on the side of the structure. [Download the STL here](../STL/V1/optional-panel-fastener-with-20mm-x-2mm-trim-slot-V1.stl)   | 
-<img src="../images/photos/20261115_180207.jpg" width="300" /> | A panel fastener with support for 9mm (inside width) PVC U-channel. As above, it is intended to act as a support for the square drain pipe, which are stacked across the top. Additional supports will be required depending on the side of the structure. [Download the STL here](../STL/V1/optional-panel-fastener-with-9mm-u-channel-slot-V1.stl)  | 
+<img src="../images/photos/20261115_180237.jpg" width="300" /> |  A panel fastener with support for 20mm x 2mm PVC trim. Fastened on each top corner, it is intended to act as a support for the square drain pipe, which are stacked across the top. Additional supports will be required depending on the size of the structure. [Download the STL here](../STL/V1/optional-panel-fastener-with-20mm-x-2mm-trim-slot-V1.stl)   | 
+<img src="../images/photos/20261115_180207.jpg" width="300" /> | A panel fastener with support for 9mm (inside width) PVC U-channel. As above, it is intended to act as a support for the square drain pipe, which are stacked across the top. Additional supports will be required depending on the size of the structure. [Download the STL here](../STL/V1/optional-panel-fastener-with-9mm-u-channel-slot-V1.stl)  | 
 
 
 
