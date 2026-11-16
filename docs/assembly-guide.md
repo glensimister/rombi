@@ -37,7 +37,7 @@
 <img src="../images/assembly/attach-long-panel-bracket-to-long-panel-bracket.png" /> | Attach another long panel bracket to one already there. Use 16mm M6 bolts either to hold them together. | 
 <img src="../images/assembly/attach-panel.png" /> | Repeat all of the processes above until all struts, corners, and brackets are attached. Then, attach the perspex panel. It should rest in place, however, if it is stuborn, you will need to loosen the structure by loosening the long hex nuts on either side of the structs. Once both of the panels (front and back) are sitting nicely, tighten the structure, and add the panel clips to hold them in place. | 
 
-## STEP 4: Stack a panel
+## STEP 4: Stacking panel
 
 This section is in progress. However, to summarize, you will need to repeat the steps above to complete an L-panel, or corner panel. Then stack them on top of each other. They should slot into place, as the corner connectors have guides. There's one important thing you will need to do in order to get them to fasten together vertically. The 5-way corner modules will contain aluminium corner cubes, which are there to hold the metal frame in place. The cubes are fastened to the frame via the long hex nut, on the end of the strut. They are fastened using 10mm M6 allen bolts. You will need to replace the downward facing bolt with a grub screw, that is approximately 35mm long. Then place a washer and hex nut no the screw to hold it in place. Then thread the long hex nut on the grub screw and place the hex nut turner object on the hex nut. This will enable you to spin it in order to attach the panels vertically. I will provide more detailed images in due course.  
 
@@ -45,4 +45,18 @@ This section is in progress. However, to summarize, you will need to repeat the 
 |---|:---|
 <img src="../images/assembly/hex-turner.png" /> | Spin the hex turner to fasten the panels vertically. Notice how the guides slot into place to ensure the grub screws align.  | 
 <img src="../images/assembly/vertical-connector.png" /> | A different view of the vertical fastener. | 
+
+## STEP 4: Roofing
+
+For narrow structures, say, three panels wide, you can apply the same system as you did for the vertical panels. After all, perspex panels can be fastened to all sides, though tricky for small cubes where you can't get inside. However, for larger, open plan spaces, you will need a different approach. Well, there are many approaches, depending on your needs. The simplest approach requires adding some different panel fasteners to the top corners, and then positioning long beans (u-channel) on top. Then, on top of those beams, you add long square drain pipe. As mentioned in the section about the "limitations of modular systems", waterproofing is something you must do yourself due to the many possible ways it can be done. 
+
+Many traditional building methods have an inner frame, and an outer shell. The inner frame provides structural support for the ceilings/floors. This could also be done with ROMBI. For example, ROMBI as a modular metal frame, which could be positioned inside the structure to provide support for the ceiling. As I said, there many ways roofing can be done, and we can combine ways too. Below are some examples of components that can be used to prop up the square pipe. Please note, however, that these have not been fully tested. Also, I plan to find way to provide more structural support (a metal frame) to the support beams, as right now, they are a bit too flimsy. 
+
+| Image | Description
+|---|:---|
+<img src="../images/assembly/hex-turner.png" /> | Spin the hex turner to fasten the panels vertically. Notice how the guides slot into place to ensure the grub screws align.  | 
+<img src="../images/assembly/vertical-connector.png" /> | A different view of the vertical fastener. | 
+
+
+
 
