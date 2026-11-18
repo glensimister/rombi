@@ -61,6 +61,13 @@ Below are some examples of components that can be used to prop up the square pip
 <img src="../images/V1/keyslot-spindle-round-pipe-bracket-left-V1.png" width="300" /> |  This spindle has a left-side pipe bracket that faces inwards. The aluminium pipe sits on top and provides a shelf for the square drain pipe. There are ways to provide props for additional support. [Download the STL here](../STL/V1/keyslot-spindle-round-pipe-bracket-left-V1.stl)   | 
 <img src="../images/V1/keyslot-spindle-round-pipe-bracket-right-V1.png" width="300" /> | This spindle has a right-side pipe bracket that faces inwards. The aluminium pipe sits on top and provides a shelf for the square drain pipe. There are ways to provide props for additional support. [Download the STL here](../STL/V1/keyslot-spindle-round-pipe-bracket-right-V1.stl)  | 
 
+<br />
+Below is a photo of these brackets in action. <br />
+
+| Image | Description
+|---|:---|
+<img src="../images/photos/spindle-with-pipe-holder.png" width="300" /> |   This photo is just a prototype. I am yet to build a structure big enough to warrant a roof. Also, the brackets in the photo are not exactly the same as the STLs provided, which have a 4mm ridge to prevent the pipe sliding. The aluminium pipe should be cut to 317mm in length (316.8 mm to be safe). | 
+
 
 
 
