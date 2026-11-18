@@ -48,7 +48,9 @@ This section is in progress. However, to summarize, you will need to repeat the 
 
 ## STEP 4: Roofing
 
-For narrow structures, say, three panels wide, you can apply the same system as you did for the vertical panels. After all, perspex panels can be fastened to all sides, though tricky for small cubes where you can't get inside. However, for larger, open plan spaces, you will need a different approach. Well, there are many approaches, depending on your needs. The simplest approach requires adding some different panel fasteners to the top corners, and then positioning long beans (u-channel) on top. Then, on top of those beams, you add long square drain pipe. As mentioned in the section about [design principals](../docs/design-principles.md), waterproofing is something you must do yourself due to the many possible ways it can be done. 
+For narrow structures, say, one or two panels wide, you can apply the same system as you did for the vertical panels. After all, perspex panels can be fastened to all sides, though tricky for small cubes where you can't get inside. However, for larger, open plan spaces, you will need a different approach. Actuallt, there are many approaches, depending on your needs, but the simplest approach requires using a keyslot spindle (STL provided), which has a built-in pipe bracket. Let me explain. The bracket supports a common type of aluminium round pipe, which you can buy in places like B&Q (UK). It is 10mm inside diameter (ID) and 12mm outside diameter (OD). The pipe rest on top of the brackets, providing a shelf for the inner-roof (more square drain pipe) to sit on. It's not so easy to explain with words, so I will upload some more photos in due course. 
+
+This approach allows you to add large beams, up to roughly 5m in length. For outdoor use, you will need a second layer, perhaps using 1mm perspex, or perhaps even fabric cover. As mentioned in the section about [design principals](../docs/design-principles.md), waterproofing is something you must do yourself due to the many possible ways it can be done. 
 
 Many traditional building methods have an inner frame, and an outer shell. The inner frame provides structural support for the ceilings/floors. This could also be done with ROMBI. For example, ROMBI has a modular metal frame, which could be positioned inside the structure to provide support for the ceiling. As I said, there many ways roofing can be done, and we can combine ways too. 
 
@@ -56,8 +58,8 @@ Below are some examples of components that can be used to prop up the square pip
 
 | Image | Description
 |---|:---|
-<img src="../images/photos/20261115_180237.jpg" width="300" /> |  A panel fastener with support for 20mm x 2mm PVC trim. Fastened on each top corner, it is intended to act as a support for the square drain pipe, which are stacked across the top. Additional supports will be required depending on the size of the structure. [Download the STL here](../STL/V1/optional-panel-fastener-with-20mm-x-2mm-trim-slot-V1.stl)   | 
-<img src="../images/photos/20261115_180207.jpg" width="300" /> | A panel fastener with support for 9mm (inside width) PVC U-channel. As above, it is intended to act as a support for the square drain pipe, which are stacked across the top. Additional supports will be required depending on the size of the structure. [Download the STL here](../STL/V1/optional-panel-fastener-with-9mm-u-channel-slot-V1.stl)  | 
+<img src="../images/V1/keyslot-spindle-round-pipe-bracket-left-V1.png" width="300" /> |  This spindle has a left-side pipe bracket that faces inwards. The aluminium pipe sits on top and provides a shelf for the square drain pipe. There are ways to provide props for additional support. [Download the STL here](../STL/V1/keyslot-spindle-round-pipe-bracket-left-V1.stl)   | 
+<img src="../images/V1/keyslot-spindle-round-pipe-bracket-right-V1.png" width="300" /> | This spindle has a right-side pipe bracket that faces inwards. The aluminium pipe sits on top and provides a shelf for the square drain pipe. There are ways to provide props for additional support. [Download the STL here](../STL/V1/keyslot-spindle-round-pipe-bracket-right-V1.stl)  | 
 
 
 
