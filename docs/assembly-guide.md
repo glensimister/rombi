@@ -58,8 +58,8 @@ Many traditional building methods have an inner frame, and an outer shell. The i
 
 | Image | Description
 |---|:---|
-<img src="../images/V1/keyslot-spindle-round-pipe-bracket-left-V1.png" width="300" /> |  This spindle has a left-side pipe bracket that faces inwards. The aluminium pipe sits on top and provides a shelf for the square drain pipe. There are ways to provide props for additional support. [Download the STL here](../STL/V1/keyslot-spindle-round-pipe-bracket-left-V1.stl)   | 
-<img src="../images/V1/keyslot-spindle-round-pipe-bracket-right-V1.png" width="300" /> | This spindle has a right-side pipe bracket that faces inwards. The aluminium pipe sits on top and provides a shelf for the square drain pipe. There are ways to provide props for additional support. [Download the STL here](../STL/V1/keyslot-spindle-round-pipe-bracket-right-V1.stl)  | 
+<img src="../images/V1/keyslot-spindle-round-pipe-bracket-left-V1.png" width="300" /> |  This spindle has a left-side pipe bracket that faces inwards. The aluminium pipe sits on top and provides a shelf for the square drain pipe (see the photo below). There are ways to provide props for additional support. [Download the STL here](../STL/V1/keyslot-spindle-round-pipe-bracket-left-V1.stl)   | 
+<img src="../images/V1/keyslot-spindle-round-pipe-bracket-right-V1.png" width="300" /> | This spindle has a right-side pipe bracket that faces inwards. The aluminium pipe sits on top and provides a shelf for the square drain pipe (see the photo below). There are ways to provide props for additional support. [Download the STL here](../STL/V1/keyslot-spindle-round-pipe-bracket-right-V1.stl)  | 
 
 <br />
 Below is a photo of these brackets in action. <br />
