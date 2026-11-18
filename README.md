@@ -6,12 +6,12 @@ Potential applications include sleeping pods, vocal booths, pet shelters, office
 
 ## How does it work?
 
-** It uses 3D-printed components (designs available on GitHub), standard British 65 mm square downpipe and Perspex/acrylic panels.
-** Each panel has consistent, symmetrical dimensions of 455 × 455 × 65 mm.
-** An internal metal framework uses threaded rods and V-slot aluminium corner cubes for reinforcement.
-** The components stack and connect together, rather like Lego, with the ability to lock the panels into position.
-** The panels are double-glazed, allowing different materials and configurations to be used for insulation, sound reduction, privacy or visibility.
-** Panels attach to the main framework using a custom fitting called the Keyslot, which combines the principles of a T-slot and a keyhole connection.
+** It uses 3D-printed components (designs available on GitHub), standard British 65 mm square downpipe and Perspex/acrylic panels.<br />
+** Each panel has consistent, symmetrical dimensions of 455 × 455 × 65 mm..<br />
+** An internal metal framework uses threaded rods and V-slot aluminium corner cubes for reinforcement..<br />
+** The components stack and connect together, rather like Lego, with the ability to lock the panels into position..<br />
+** The panels are double-glazed, allowing different materials and configurations to be used for insulation, sound reduction, privacy or visibility..<br />
+** Panels attach to the main framework using a custom fitting called the Keyslot, which combines the principles of a T-slot and a keyhole connection..<br />
 
 There are some good modular framing systems out there, such as V-slot and T-slot, but they are typically meant for engineers. They are too heavy, too expensive, and relatively inaccessible to the average person. That said, I plan to develop doors using V-slot aluminium. However, my priority is to ensure that the core ROMBI system is thoroughly tested before expanding into additional components. 
 
