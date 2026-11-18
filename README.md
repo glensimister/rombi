@@ -6,7 +6,7 @@ Potential applications include sleeping pods, vocal booths, pet shelters, office
 
 ## How does it work?
 
-** It uses 3D-printed components (designs available on GitHub), standard British 65 mm square downpipe and Perspex/acrylic panels.<br />
+** It uses 3D-printed components, standard British 65 mm square downpipe and Perspex/acrylic panels.<br />
 ** Each panel has consistent, symmetrical dimensions of 455 × 455 × 65 mm..<br />
 ** An internal metal framework uses threaded rods and V-slot aluminium corner cubes for reinforcement..<br />
 ** The components stack and connect together, rather like Lego, with the ability to lock the panels into position..<br />
