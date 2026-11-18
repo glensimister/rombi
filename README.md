@@ -1,9 +1,25 @@
 <img src="images/rombi_mint_wordmark.png" />
 <p></p>
-      
-<p>ROMBI consists of modular panels that can be made with practically no skills. There are some good modular framing systems out there, such as V-slot and T-slot, but they are typically meant for engineers. They are too heavy, too expensive, and relatively inaccessible to the average person. I came up with this system to make modular construction fast, affordable and accessible.</p>
 
-<p>A lot of time and money has already gone into this project, and I plan to keep improving it. Please support me by making a donation:</p>
+ROMBI is a modular construction system designed to make it possible to build a variety of structures quickly and easily, without requiring specialist building experience. The system is intended to be adaptable, reusable and relatively straightforward to assemble.
+Potential applications include sleeping pods, vocal booths, pet shelters, office partitions, enclosures and many more.
+
+## How does it work?
+
+** It uses 3D-printed components (designs available on GitHub), standard British 65 mm square downpipe and Perspex/acrylic panels.
+** Each panel has consistent, symmetrical dimensions of 455 × 455 × 65 mm.
+** An internal metal framework uses threaded rods and V-slot aluminium corner cubes for reinforcement.
+** The components stack and connect together, rather like Lego, with the ability to lock the panels into position.
+** The panels are double-glazed, allowing different materials and configurations to be used for insulation, sound reduction, privacy or visibility.
+** Panels attach to the main framework using a custom fitting called the Keyslot, which combines the principles of a T-slot and a keyhole connection.
+
+There are some good modular framing systems out there, such as V-slot and T-slot, but they are typically meant for engineers. They are too heavy, too expensive, and relatively inaccessible to the average person. That said, I plan to develop doors using V-slot aluminium. However, my priority is to ensure that the core ROMBI system is thoroughly tested before expanding into additional components. 
+
+ROMBI is intended to be an open, evolving project. The idea is that anyone can access the designs, adapt them to their own requirements and contribute to further development.
+
+I'd really appreciate is some honest feedback! Also...
+
+<p>A lot of time and money has already gone into this project. Please help me to continue by making a donation:</p>
 <a href="https://www.paypal.com/donate/?hosted_button_id=NUNFJG6USY3QL" target="_blank">
   <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Donate with PayPal" />
 </a>
