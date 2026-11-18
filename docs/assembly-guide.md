@@ -71,7 +71,7 @@ Below is a photo of these brackets in action. <br />
 <br />
 Theorectically speaking, you are now in a position to build a structure like the following: <br /> <br />
 
-<img src="../images/images/liberland-pod.png" />
+<img src="../images/liberland-pod.png" />
 
 <br /> <br />
 I will continue to add more photos, and improve the documentation as I build more stuff. Please contact me with any questions you may have on glen_simister (at) yahoo.co.uk, connect with me via the ROMBI Facebook page, or submit an issue above.  
