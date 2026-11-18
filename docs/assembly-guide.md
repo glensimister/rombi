@@ -66,8 +66,15 @@ Below is a photo of these brackets in action. <br />
 
 | Image | Description
 |---|:---|
-<img src="../images/photos/spindle-with-pipe-holder.png" width="300" /> |   This photo is just a prototype. I am yet to build a structure big enough to warrant a roof. Also, the brackets in the photo are not exactly the same as the STLs provided, which have a 4mm ridge to prevent the pipe sliding. The aluminium pipe should be cut to 317mm in length (316.8 mm to be safe). | 
+<img src="../images/photos/spindle-with-pipe-holder.jpg" width="300" /> |   This photo is just a prototype. I am yet to build a structure big enough to warrant a roof. Also, the brackets in the photo are not exactly the same as the STLs provided, which have a 4mm ridge to prevent the pipe sliding. The aluminium pipe should be cut to 317mm in length (316.8 mm to be safe). | 
 
+<br />
+Theorectically speaking, you are now in a position to build a structure like the following: <br /> <br />
+
+<img src="../images/images/liberland-pod.png" />
+
+<br /> <br />
+I will continue to add more photos, and improve the documentation as I build more stuff. Please contact me with any questions you may have on glen_simister (at) yahoo.co.uk, connect with me via the ROMBI Facebook page, or submit an issue above.  
 
 
 
