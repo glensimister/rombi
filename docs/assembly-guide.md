@@ -48,13 +48,13 @@ This section is in progress. However, to summarize, you will need to repeat the 
 
 ## STEP 4: Roofing
 
-For narrow structures, say, one or two panels wide, you can apply the same system as you did for the vertical panels. After all, perspex panels can be fastened to all sides, though tricky for small cubes where you can't get inside. However, for larger, open plan spaces, you will need a different approach. Actuallt, there are many approaches, depending on your needs, but the simplest approach requires using a keyslot spindle (STL provided), which has a built-in pipe bracket. Let me explain. The bracket supports a common type of aluminium round pipe, which you can buy in places like B&Q (UK). It is 10mm inside diameter (ID) and 12mm outside diameter (OD). The pipe rest on top of the brackets, providing a shelf for the inner-roof (more square drain pipe) to sit on. It's not so easy to explain with words, so I will upload some more photos in due course. 
+For narrow structures, say, one or two panels wide, you can apply the same system as you did for the vertical panels. After all, perspex panels can be fastened to all sides, though tricky for small cubes where you can't get inside. However, for larger, open plan spaces, you will need a different approach. Actually, there are many approaches, depending on your needs, but the simplest approach requires using a keyslot spindle (STL provided), which has a built-in pipe bracket. Let me explain... 
 
-This approach allows you to add large beams, up to roughly 5m in length. For outdoor use, you will need a second layer, perhaps using 1mm perspex, or perhaps even fabric cover. As mentioned in the section about [design principals](../docs/design-principles.md), waterproofing is something you must do yourself due to the many possible ways it can be done. 
+The bracket supports a common type of aluminium round pipe, which you can buy in places like B&Q (UK). It is 10mm inside diameter (ID) and 12mm outside diameter (OD). The pipe rests on top of the brackets, providing a shelf for the inner-roof (more square drain pipe) to sit on. It's not so easy to explain with words, so I will upload some more photos in due course. 
+
+This approach allows you to add large beams, up to roughly 5m in length. For outdoor use, you will need a second layer, perhaps using 1mm perspex, or perhaps even a fabric cover. As mentioned in the section about [design principals](../docs/design-principles.md), waterproofing is something you should do yourself due to the many possible ways it can be done. 
 
 Many traditional building methods have an inner frame, and an outer shell. The inner frame provides structural support for the ceilings/floors. This could also be done with ROMBI. For example, ROMBI has a modular metal frame, which could be positioned inside the structure to provide support for the ceiling. As I said, there many ways roofing can be done, and we can combine ways too. 
-
-Below are some examples of components that can be used to prop up the square pipe. However, please don't use them. They have not been fully tested and i'm not happy with them, as they are a bit too flimsy. I am currently working on a better system. 
 
 | Image | Description
 |---|:---|
