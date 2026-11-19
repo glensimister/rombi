@@ -71,9 +71,17 @@ Below is a photo of these brackets in action. <br />
 
 | Image | Description
 |---|:---|
-<img src="../images/photos/spindle-with-pipe-holder.jpg" width="300" /> |   This photo is just a prototype and it may be subject to small changes. Also, I am yet to build a structure big enough to warrant a roof. The brackets in the photo are not exactly the same as the STLs provided, which have a ridge on the side to prevent the pipe sliding. The aluminium pipe should be cut to 300mm in length. This is easy using a small pipe cutting tool. I'm willing to cut these pieces and sell them ebay. Let me know if you want that service. | 
+<img src="../images/photos/spindle-with-pipe-holder.jpg" width="300" /> |   This photo is just a prototype and it may be subject to small changes. Also, I am yet to build a structure big enough to warrant a roof. The brackets in the photo are not exactly the same as the STLs provided, which have a ridge on the side to prevent the pipe sliding. The aluminium pipe should be cut to 300mm in length. This is easy using a small pipe cutting tool. I'm willing to cut these pieces and sell them on ebay. Let me know if you want that service. | 
 
 <br />
+<p align="center">
+  An example of how the roof support system works. The example on the right (black) is the currently uploaded STL.
+  <br />
+  <img src="../images/photos/roof-support-prototype.jpg"  />
+</p>
+
+
+
 Theorectically speaking, you are now in a position to build a structure like the following: <br /> <br />
 
 <img src="../images/liberland-pod.png" />
