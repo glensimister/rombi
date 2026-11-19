@@ -6,6 +6,9 @@
 
 ## STEP 1: Build a strut
 
+<p align="center">
+<img src="../images/assembly/finished-strut.png" /></p><br /><br />
+
 | Image | Description
 |---|:---|
 <img src="../images/assembly/245mm-pipe.png" /> | Cut the square drain pipe into 245mm sections. I used a Stanley Mitre Box Saw. It's a non-electric saw with a guide to ensure a straight cut. Using an electric saw with PVC will create a lot of mess, and potentially break the pipe. | 
