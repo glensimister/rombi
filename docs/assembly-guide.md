@@ -68,7 +68,7 @@ Below is a photo of these brackets in action. <br />
 
 | Image | Description
 |---|:---|
-<img src="../images/photos/spindle-with-pipe-holder.jpg" width="300" /> |   This photo is just a prototype. I am yet to build a structure big enough to warrant a roof. Also, the brackets in the photo are not exactly the same as the STLs provided, which have a 4mm ridge to prevent the pipe sliding. The aluminium pipe should be cut to 317mm in length (316.8 mm to be safe). | 
+<img src="../images/photos/spindle-with-pipe-holder.jpg" width="300" /> |   This photo is just a prototype and it may be subject to small changes. Also, I am yet to build a structure big enough to warrant a roof. The brackets in the photo are not exactly the same as the STLs provided, which have a ridge on the side to prevent the pipe sliding. The aluminium pipe should be cut to 300mm in length. This is easy using a small pipe cutting tool. I'm willing to cut these pieces and sell them ebay. Let me know if you want that service. | 
 
 <br />
 Theorectically speaking, you are now in a position to build a structure like the following: <br /> <br />
