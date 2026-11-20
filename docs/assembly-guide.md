@@ -59,6 +59,8 @@ The bracket supports a common type of aluminium round pipe, which you can buy in
 
 This approach allows you to add large beams, up to roughly 5m in length. For outdoor use, you will need a second layer, perhaps using 1mm perspex, or perhaps even a fabric cover. As mentioned in the section about [design principals](../docs/design-principles.md), waterproofing is something you should do yourself due to the many possible ways it can be done. 
 
+NOTE: There is also another roof connector, which I will explain in more details when I get the chance to upload some pictures. 
+
 Many traditional building methods have an inner frame, and an outer shell. The inner frame provides structural support for the ceilings/floors. This could also be done with ROMBI. For example, ROMBI has a modular metal frame, which could be positioned inside the structure to provide support for the ceiling. As I said, there many ways roofing can be done, and we can combine ways too. 
 
 | Image | Description
