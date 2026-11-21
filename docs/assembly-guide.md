@@ -61,7 +61,7 @@ This approach allows you to add large beams, up to roughly 5m in length. For out
 
 NOTE: There is also another roof connector, which I will explain in more details when I get the chance to upload some pictures. 
 
-Many traditional building methods have an inner frame, and an outer shell. The inner frame provides structural support for the ceilings/floors. This could also be done with ROMBI. For example, ROMBI has a modular metal frame, which could be positioned inside the structure to provide support for the ceiling. As I said, there many ways roofing can be done, and we can combine ways too. 
+Many traditional building methods have an inner frame, and an outer shell. The inner frame provides structural support for the ceilings/floors. This could also be done with ROMBI. For example, ROMBI has a modular metal frame, which could be positioned inside the structure to provide support for the ceiling. As I said, there many ways roofing can be done, and we can combine ways too. I am looking into using as a final layer. Providing it is discrete and tidy, it should be fine.
 
 | Image | Description
 |---|:---|
