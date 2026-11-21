@@ -1,7 +1,7 @@
 <img src="images/rombi_mint_wordmark.png" />
 <p></p>
 
-## IMPORTANT: ROMBI is under constant development. Though you are welcome to download and print the models, please do so at your own risk. A better option would be to collaborate with me on a project.  
+## IMPORTANT: ROMBI is under constant development. Though you are welcome to download and print the models, do so at your own risk. A better option would be to collaborate with me on a project.  
 
 ROMBI is a modular construction system designed to make it possible to build a variety of structures quickly and easily, without requiring specialist building experience. The system is intended to be adaptable, reusable and relatively straightforward to assemble.
 Potential applications include sleeping pods, vocal booths, pet shelters, office partitions, enclosures and many more.
