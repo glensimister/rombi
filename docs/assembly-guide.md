@@ -74,7 +74,7 @@ Below is a photo of these brackets in action. <br />
 
 | Image | Description
 |---|:---|
-<img src="../images/photos/opaque-panel-front.jpg" width="300" /> |   Opaque panel front. This will face outwards, for security reasons. This photo is just a prototype and it may be subject to small changes. Also, I am yet to build a structure big enough to warrant a roof. The brackets in the photo are not exactly the same as the STLs provided, which have a ridge on the side to prevent the pipe sliding. The aluminium pipe should be cut to 300mm (perhaps slightly less if it's too tight) in length. This is easy using a small pipe cutting tool. I'm willing to cut these pieces and sell them on ebay. Let me know if you want that service. | 
+<img src="../images/photos/opaque-panel-front.jpg" width="300" /> |   Opaque panel front. This will face outwards, for security reasons. This photo is just a prototype and it may be subject to small changes. Also, I am yet to build a structure big enough to warrant a roof. The brackets in the photo are not exactly the same as the STLs provided, which have a ridge on the side to prevent the pipe sliding. The aluminium (or plastic) pipe should be cut to 300mm (perhaps slightly less if it's too tight) in length. This is easy using a small pipe cutting tool. I'm willing to cut these pieces and sell them on ebay. Let me know if you want that service. | 
 <img src="../images/photos/opaque-panel-back.jpg" width="300" /> |   Opaque panel inwards, as you can easily remove the brackets. As above, these components are subject to  change. | 
 
 
