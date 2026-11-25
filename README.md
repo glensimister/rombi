@@ -47,8 +47,8 @@ Please also check out: - [Why ROMBI Could Be a Good Fit for Liberland](docs/romb
 <center>
   <table>
       <tr>
-              <td><img src="images/photos/opaque-panel-front.jpg" /></td>
               <td><img src="images/photos/opaque-panel-back.jpg" /></td>
+              <td><img src="images/Serene Floating Eco Village.png" /></td>
               <td><img src="images/van-conversion-interia.png" /></td>
               <td><img src="images/photos/20261106_133503.jpg" /></td>
         </tr>
